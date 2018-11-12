@@ -30,14 +30,16 @@ census_tables <- read_html("https://en.wikipedia.org/wiki/List_of_U.S._states_by
   # apply the wiki_census() function to each wikipedia table
   map_df(~ wiki_census(.x))
 
-
 # Get enslaved population from the same source
 # enslaved population has a different structure
 enslaved <- read_html("https://en.wikipedia.org/wiki/List_of_U.S._states_by_historical_population") %>% 
   html_nodes("table.wikitable") %>% 
   # these are the tables that I will actually use
   .[2] %>% 
-  map_df(~ wiki_census(.x))
+  map_df(~ wiki_census(.x)) %>% 
+  # the most reprehensible number of all time
+  mutate(census_slave_pop = population * 3/5)
+
 
 #-----------------------------------------------------------------------------#
 #------------------------------- Congress Data -------------------------------#
