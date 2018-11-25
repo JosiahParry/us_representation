@@ -8,7 +8,9 @@ output:
 
 ```{r, include=FALSE}
 library(tidyverse)
-theme_set(theme_minimal())
+theme_set(theme_minimal()  + 
+  theme(legend.position = "bottom",
+        plot.title = element_text(hjust = 0)))
 ```
 
 In light of the recent midterms my head has been in a complete tizzy about the increasing domination of the senate by a smaller and smaller population of the US. This repository serves as a basis for an examination of the Connecticut Compromise and its changing role in US Republican democracy. 
@@ -19,14 +21,9 @@ I created this repository for those who may also be interested in these data.
 ### Population Data
 
 ```{r message=FALSE, warning=FALSE}
-census_tables <- read_csv("data/census_state_pop.csv")
-enslaved <- read_csv("data/us_enslaved_pop.csv")
+census <- read_csv("data/census_cleaned_data.csv")
 
-# Join the tables and create a secondary population column
-# pop represents apportioned population based on 3/5th rule :( 
-census <- left_join(census_tables, select(enslaved, -population),
-                    by = c("name", "year")) %>% 
-  mutate(pop = population + replace_na(census_slave_pop, 0))
+head(census)
 ```
 
 ### Relative Senator Power
@@ -39,14 +36,14 @@ $Senator\>Power = \ln\frac{2}{{\%\>of\>population}}$
 # create metrics for share of population and a relative power of 
 # senator (scaling number of senators by share of population)
 senator_power <- census %>% 
-  filter(!is.na(population)) %>% 
+  filter(!is.na(apportioned_pop)) %>% 
   # remove the US as it will throw off calculations
   filter(name != "United States") %>% 
   group_by(year) %>% 
   # find the total population for a given year
-  mutate(total_pop = sum(pop, na.rm = TRUE)) %>% 
+  mutate(total_pop = sum(apportioned_pop, na.rm = TRUE)) %>% 
   ungroup() %>% 
-  mutate(share_pop = pop / total_pop,
+  mutate(share_pop = apportioned_pop / total_pop,
         # created metric for senator_power
          senator_power = log(2/ share_pop))
 
@@ -117,9 +114,7 @@ states_df %>%
   labs(x = "", y = "", title = "% Share of US Population") + 
   scale_fill_gradient(low = "#8E556D", high = "#ffbf11",
                       guide = guide_colorbar("")) +
-  facet_wrap(~year) + 
-  theme(legend.position = "bottom",
-        plot.title = element_text(hjust = 0))
+  facet_wrap(~year) 
 
 ```
 
@@ -136,9 +131,7 @@ states_df %>%
   labs(x = "", y = "", title = "Relative power per senator") + 
   scale_fill_gradient(low = "#8E556D", high = "#ffbf11",
                       guide = guide_colorbar("Senator Power")) +
-  facet_wrap(~year) + 
-  theme(legend.position = "bottom",
-        plot.title = element_text(hjust = 0))
+  facet_wrap(~year)
 
 ```
 

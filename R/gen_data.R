@@ -37,8 +37,7 @@ enslaved <- read_html("https://en.wikipedia.org/wiki/List_of_U.S._states_by_hist
   # these are the tables that I will actually use
   .[2] %>% 
   map_df(~ wiki_census(.x)) %>% 
-  # the most reprehensible number of all time
-  mutate(census_slave_pop = population * 3/5)
+  rename(enslaved_pop = population)
 
 
 #-----------------------------------------------------------------------------#
@@ -78,8 +77,20 @@ reps_clean <- reps %>%
   mutate(relative_rep_power = n_reps/total_reps)
 
 
+
+#-------------------------------- Join Data ----------------------------------#
+
+# Join the tables and create a secondary population column
+# pop represents apportioned population based on 3/5th rule :( 
+census <- left_join(census_tables, enslaved,
+                    by = c("name", "year")) %>% 
+  mutate(free_pop = population - enslaved_pop,
+         apportioned_pop = coalesce(as.integer(round(population + enslaved_pop * 0.6)), population))
+
+
 #------------------------------- Write Data ----------------------------------#
 write_csv(census_tables, "data/census_state_pop.csv")
 write_csv(enslaved, "data/us_enslaved_pop.csv")
 write_csv(reps_clean, "data/us_house.csv")
+write_csv(census, "data/census_cleaned_data.csv")
 

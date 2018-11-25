@@ -1,345 +1,345 @@
-name,year,population,census_slave_pop
-Alabama,1790,NA,NA
-Arkansas,1790,NA,NA
-California,1790,NA,NA
-Colorado,1790,NA,NA
-Connecticut,1790,2764,1658.4
-Delaware,1790,8887,5332.2
-District of Columbia,1790,NA,NA
-Florida,1790,NA,NA
-Georgia,1790,29264,17558.4
-Illinois,1790,NA,NA
-Indiana,1790,NA,NA
-Iowa,1790,NA,NA
-Kansas,1790,NA,NA
-Kentucky,1790,12430,7458
-Louisiana,1790,NA,NA
-Maine,1790,0,0
-Maryland,1790,103036,61821.6
-Massachusetts,1790,0,0
-Michigan,1790,NA,NA
-Minnesota,1790,NA,NA
-Mississippi,1790,NA,NA
-Missouri,1790,NA,NA
-Nebraska,1790,NA,NA
-Nevada,1790,NA,NA
-New Hampshire,1790,158,94.8
-New Jersey,1790,11423,6853.8
-New Mexico,1790,NA,NA
-New York,1790,21324,12794.4
-North Carolina,1790,100572,60343.2
-Ohio,1790,NA,NA
-Oregon,1790,NA,NA
-Pennsylvania,1790,3737,2242.2
-Rhode Island,1790,948,568.8
-South Carolina,1790,107094,64256.4
-Tennessee,1790,3417,2050.2
-Texas,1790,NA,NA
-Utah Territory,1790,NA,NA
-Vermont,1790,0,0
-Virginia,1790,287959,172775.4
-Washington,1790,NA,NA
-West Virginia,1790,4668,2800.8
-Wisconsin,1790,NA,NA
-United States,1790,697681,418608.6
-Alabama,1800,494,296.4
-Arkansas,1800,NA,NA
-California,1800,NA,NA
-Colorado,1800,NA,NA
-Connecticut,1800,951,570.6
-Delaware,1800,6153,3691.8
-District of Columbia,1800,2072,1243.2
-Florida,1800,NA,NA
-Georgia,1800,59699,35819.4
-Illinois,1800,107,64.2
-Indiana,1800,28,16.8
-Iowa,1800,NA,NA
-Kansas,1800,NA,NA
-Kentucky,1800,40343,24205.8
-Louisiana,1800,NA,NA
-Maine,1800,0,0
-Maryland,1800,105635,63381
-Massachusetts,1800,0,0
-Michigan,1800,0,0
-Minnesota,1800,NA,NA
-Mississippi,1800,2995,1797
-Missouri,1800,NA,NA
-Nebraska,1800,NA,NA
-Nevada,1800,NA,NA
-New Hampshire,1800,8,4.8
-New Jersey,1800,12422,7453.2
-New Mexico,1800,NA,NA
-New York,1800,20613,12367.8
-North Carolina,1800,133296,79977.6
-Ohio,1800,0,0
-Oregon,1800,NA,NA
-Pennsylvania,1800,1706,1023.6
-Rhode Island,1800,380,228
-South Carolina,1800,146151,87690.6
-Tennessee,1800,13584,8150.4
-Texas,1800,NA,NA
-Utah Territory,1800,NA,NA
-Vermont,1800,0,0
-Virginia,1800,339499,203699.4
-Washington,1800,NA,NA
-West Virginia,1800,7172,4303.2
-Wisconsin,1800,NA,NA
-United States,1800,893602,536161.2
-Alabama,1810,2565,1539
-Arkansas,1810,136,81.6
-California,1810,NA,NA
-Colorado,1810,NA,NA
-Connecticut,1810,310,186
-Delaware,1810,4177,2506.2
-District of Columbia,1810,3554,2132.4
-Florida,1810,NA,NA
-Georgia,1810,105218,63130.8
-Illinois,1810,168,100.8
-Indiana,1810,237,142.2
-Iowa,1810,NA,NA
-Kansas,1810,NA,NA
-Kentucky,1810,80561,48336.6
-Louisiana,1810,34660,20796
-Maine,1810,0,0
-Maryland,1810,111502,66901.2
-Massachusetts,1810,0,0
-Michigan,1810,24,14.4
-Minnesota,1810,NA,NA
-Mississippi,1810,14523,8713.8
-Missouri,1810,2875,1725
-Nebraska,1810,NA,NA
-Nevada,1810,NA,NA
-New Hampshire,1810,0,0
-New Jersey,1810,10851,6510.6
-New Mexico,1810,NA,NA
-New York,1810,15017,9010.2
-North Carolina,1810,168824,101294.4
-Ohio,1810,0,0
-Oregon,1810,NA,NA
-Pennsylvania,1810,795,477
-Rhode Island,1810,108,64.8
-South Carolina,1810,196365,117819
-Tennessee,1810,44535,26721
-Texas,1810,NA,NA
-Utah Territory,1810,NA,NA
-Vermont,1810,0,0
-Virginia,1810,383521,230112.6
-Washington,1810,NA,NA
-West Virginia,1810,10836,6501.6
-Wisconsin,1810,NA,NA
-United States,1810,1191362,714817.2
-Alabama,1820,41879,25127.4
-Arkansas,1820,1617,970.2
-California,1820,NA,NA
-Colorado,1820,NA,NA
-Connecticut,1820,97,58.2
-Delaware,1820,4509,2705.4
-District of Columbia,1820,4520,2712
-Florida,1820,NA,NA
-Georgia,1820,149656,89793.6
-Illinois,1820,917,550.2
-Indiana,1820,190,114
-Iowa,1820,NA,NA
-Kansas,1820,NA,NA
-Kentucky,1820,126732,76039.2
-Louisiana,1820,69064,41438.4
-Maine,1820,0,0
-Maryland,1820,107398,64438.8
-Massachusetts,1820,0,0
-Michigan,1820,0,0
-Minnesota,1820,NA,NA
-Mississippi,1820,32814,19688.4
-Missouri,1820,10222,6133.2
-Nebraska,1820,NA,NA
-Nevada,1820,NA,NA
-New Hampshire,1820,0,0
-New Jersey,1820,7557,4534.2
-New Mexico,1820,NA,NA
-New York,1820,10088,6052.8
-North Carolina,1820,204917,122950.2
-Ohio,1820,0,0
-Oregon,1820,NA,NA
-Pennsylvania,1820,211,126.6
-Rhode Island,1820,48,28.8
-South Carolina,1820,258475,155085
-Tennessee,1820,80107,48064.2
-Texas,1820,NA,NA
-Utah Territory,1820,NA,NA
-Vermont,1820,0,0
-Virginia,1820,411886,247131.6
-Washington,1820,NA,NA
-West Virginia,1820,15169,9101.4
-Wisconsin,1820,0,0
-United States,1820,1538022,922813.2
-Alabama,1830,117549,70529.4
-Arkansas,1830,4576,2745.6
-California,1830,NA,NA
-Colorado,1830,NA,NA
-Connecticut,1830,25,15
-Delaware,1830,3292,1975.2
-District of Columbia,1830,4505,2703
-Florida,1830,15501,9300.6
-Georgia,1830,217531,130518.6
-Illinois,1830,747,448.2
-Indiana,1830,3,1.8
-Iowa,1830,NA,NA
-Kansas,1830,NA,NA
-Kentucky,1830,165213,99127.8
-Louisiana,1830,109588,65752.8
-Maine,1830,2,1.2
-Maryland,1830,102994,61796.4
-Massachusetts,1830,1,0.6
-Michigan,1830,1,0.6
-Minnesota,1830,NA,NA
-Mississippi,1830,65659,39395.4
-Missouri,1830,25091,15054.6
-Nebraska,1830,NA,NA
-Nevada,1830,NA,NA
-New Hampshire,1830,3,1.8
-New Jersey,1830,2254,1352.4
-New Mexico,1830,NA,NA
-New York,1830,75,45
-North Carolina,1830,245601,147360.6
-Ohio,1830,6,3.6
-Oregon,1830,NA,NA
-Pennsylvania,1830,403,241.8
-Rhode Island,1830,17,10.2
-South Carolina,1830,315401,189240.6
-Tennessee,1830,141603,84961.8
-Texas,1830,NA,NA
-Utah Territory,1830,NA,NA
-Vermont,1830,0,0
-Virginia,1830,453698,272218.8
-Washington,1830,NA,NA
-West Virginia,1830,17673,10603.8
-Wisconsin,1830,31,18.6
-United States,1830,2009043,1205425.8
-Alabama,1840,253532,152119.2
-Arkansas,1840,19935,11961
-California,1840,NA,NA
-Colorado,1840,NA,NA
-Connecticut,1840,17,10.2
-Delaware,1840,2605,1563
-District of Columbia,1840,3320,1992
-Florida,1840,25717,15430.2
-Georgia,1840,280944,168566.4
-Illinois,1840,331,198.6
-Indiana,1840,3,1.8
-Iowa,1840,16,9.6
-Kansas,1840,NA,NA
-Kentucky,1840,182258,109354.8
-Louisiana,1840,168452,101071.2
-Maine,1840,0,0
-Maryland,1840,89737,53842.2
-Massachusetts,1840,0,0
-Michigan,1840,0,0
-Minnesota,1840,NA,NA
-Mississippi,1840,195211,117126.6
-Missouri,1840,58240,34944
-Nebraska,1840,NA,NA
-Nevada,1840,NA,NA
-New Hampshire,1840,1,0.6
-New Jersey,1840,674,404.4
-New Mexico,1840,NA,NA
-New York,1840,4,2.4
-North Carolina,1840,245817,147490.2
-Ohio,1840,3,1.8
-Oregon,1840,NA,NA
-Pennsylvania,1840,64,38.4
-Rhode Island,1840,5,3
-South Carolina,1840,327038,196222.8
-Tennessee,1840,183059,109835.4
-Texas,1840,NA,NA
-Utah Territory,1840,NA,NA
-Vermont,1840,0,0
-Virginia,1840,431873,259123.8
-Washington,1840,0,0
-West Virginia,1840,18488,11092.8
-Wisconsin,1840,11,6.6
-United States,1840,2487355,1492413
-Alabama,1850,342844,205706.4
-Arkansas,1850,47100,28260
-California,1850,0,0
-Colorado,1850,NA,NA
-Connecticut,1850,0,0
-Delaware,1850,2290,1374
-District of Columbia,1850,3687,2212.2
-Florida,1850,39310,23586
-Georgia,1850,381682,229009.2
-Illinois,1850,0,0
-Indiana,1850,0,0
-Iowa,1850,0,0
-Kansas,1850,NA,NA
-Kentucky,1850,210981,126588.6
-Louisiana,1850,244809,146885.4
-Maine,1850,0,0
-Maryland,1850,90368,54220.8
-Massachusetts,1850,0,0
-Michigan,1850,0,0
-Minnesota,1850,0,0
-Mississippi,1850,309878,185926.8
-Missouri,1850,87422,52453.2
-Nebraska,1850,NA,NA
-Nevada,1850,NA,NA
-New Hampshire,1850,0,0
-New Jersey,1850,236,141.6
-New Mexico,1850,0,0
-New York,1850,0,0
-North Carolina,1850,288548,173128.8
-Ohio,1850,0,0
-Oregon,1850,0,0
-Pennsylvania,1850,0,0
-Rhode Island,1850,0,0
-South Carolina,1850,384984,230990.4
-Tennessee,1850,239459,143675.4
-Texas,1850,58161,34896.6
-Utah Territory,1850,26,15.6
-Vermont,1850,0,0
-Virginia,1850,452028,271216.8
-Washington,1850,0,0
-West Virginia,1850,20500,12300
-Wisconsin,1850,0,0
-United States,1850,3204313,1922587.8
-Alabama,1860,435080,261048
-Arkansas,1860,111115,66669
-California,1860,0,0
-Colorado,1860,0,0
-Connecticut,1860,0,0
-Delaware,1860,1798,1078.8
-District of Columbia,1860,3185,1911
-Florida,1860,61745,37047
-Georgia,1860,462198,277318.8
-Illinois,1860,0,0
-Indiana,1860,0,0
-Iowa,1860,0,0
-Kansas,1860,2,1.2
-Kentucky,1860,225483,135289.8
-Louisiana,1860,331726,199035.6
-Maine,1860,0,0
-Maryland,1860,87189,52313.4
-Massachusetts,1860,0,0
-Michigan,1860,0,0
-Minnesota,1860,0,0
-Mississippi,1860,436631,261978.6
-Missouri,1860,114931,68958.6
-Nebraska,1860,15,9
-Nevada,1860,0,0
-New Hampshire,1860,0,0
-New Jersey,1860,18,10.8
-New Mexico,1860,0,0
-New York,1860,0,0
-North Carolina,1860,331059,198635.4
-Ohio,1860,0,0
-Oregon,1860,0,0
-Pennsylvania,1860,0,0
-Rhode Island,1860,0,0
-South Carolina,1860,402406,241443.6
-Tennessee,1860,275719,165431.4
-Texas,1860,182566,109539.6
-Utah Territory,1860,29,17.4
-Vermont,1860,0,0
-Virginia,1860,472494,283496.4
-Washington,1860,0,0
-West Virginia,1860,18371,11022.6
-Wisconsin,1860,0,0
-United States,1860,3953760,2372256
+name,year,enslaved_pop
+Alabama,1790,NA
+Arkansas,1790,NA
+California,1790,NA
+Colorado,1790,NA
+Connecticut,1790,2764
+Delaware,1790,8887
+District of Columbia,1790,NA
+Florida,1790,NA
+Georgia,1790,29264
+Illinois,1790,NA
+Indiana,1790,NA
+Iowa,1790,NA
+Kansas,1790,NA
+Kentucky,1790,12430
+Louisiana,1790,NA
+Maine,1790,0
+Maryland,1790,103036
+Massachusetts,1790,0
+Michigan,1790,NA
+Minnesota,1790,NA
+Mississippi,1790,NA
+Missouri,1790,NA
+Nebraska,1790,NA
+Nevada,1790,NA
+New Hampshire,1790,158
+New Jersey,1790,11423
+New Mexico,1790,NA
+New York,1790,21324
+North Carolina,1790,100572
+Ohio,1790,NA
+Oregon,1790,NA
+Pennsylvania,1790,3737
+Rhode Island,1790,948
+South Carolina,1790,107094
+Tennessee,1790,3417
+Texas,1790,NA
+Utah Territory,1790,NA
+Vermont,1790,0
+Virginia,1790,287959
+Washington,1790,NA
+West Virginia,1790,4668
+Wisconsin,1790,NA
+United States,1790,697681
+Alabama,1800,494
+Arkansas,1800,NA
+California,1800,NA
+Colorado,1800,NA
+Connecticut,1800,951
+Delaware,1800,6153
+District of Columbia,1800,2072
+Florida,1800,NA
+Georgia,1800,59699
+Illinois,1800,107
+Indiana,1800,28
+Iowa,1800,NA
+Kansas,1800,NA
+Kentucky,1800,40343
+Louisiana,1800,NA
+Maine,1800,0
+Maryland,1800,105635
+Massachusetts,1800,0
+Michigan,1800,0
+Minnesota,1800,NA
+Mississippi,1800,2995
+Missouri,1800,NA
+Nebraska,1800,NA
+Nevada,1800,NA
+New Hampshire,1800,8
+New Jersey,1800,12422
+New Mexico,1800,NA
+New York,1800,20613
+North Carolina,1800,133296
+Ohio,1800,0
+Oregon,1800,NA
+Pennsylvania,1800,1706
+Rhode Island,1800,380
+South Carolina,1800,146151
+Tennessee,1800,13584
+Texas,1800,NA
+Utah Territory,1800,NA
+Vermont,1800,0
+Virginia,1800,339499
+Washington,1800,NA
+West Virginia,1800,7172
+Wisconsin,1800,NA
+United States,1800,893602
+Alabama,1810,2565
+Arkansas,1810,136
+California,1810,NA
+Colorado,1810,NA
+Connecticut,1810,310
+Delaware,1810,4177
+District of Columbia,1810,3554
+Florida,1810,NA
+Georgia,1810,105218
+Illinois,1810,168
+Indiana,1810,237
+Iowa,1810,NA
+Kansas,1810,NA
+Kentucky,1810,80561
+Louisiana,1810,34660
+Maine,1810,0
+Maryland,1810,111502
+Massachusetts,1810,0
+Michigan,1810,24
+Minnesota,1810,NA
+Mississippi,1810,14523
+Missouri,1810,2875
+Nebraska,1810,NA
+Nevada,1810,NA
+New Hampshire,1810,0
+New Jersey,1810,10851
+New Mexico,1810,NA
+New York,1810,15017
+North Carolina,1810,168824
+Ohio,1810,0
+Oregon,1810,NA
+Pennsylvania,1810,795
+Rhode Island,1810,108
+South Carolina,1810,196365
+Tennessee,1810,44535
+Texas,1810,NA
+Utah Territory,1810,NA
+Vermont,1810,0
+Virginia,1810,383521
+Washington,1810,NA
+West Virginia,1810,10836
+Wisconsin,1810,NA
+United States,1810,1191362
+Alabama,1820,41879
+Arkansas,1820,1617
+California,1820,NA
+Colorado,1820,NA
+Connecticut,1820,97
+Delaware,1820,4509
+District of Columbia,1820,4520
+Florida,1820,NA
+Georgia,1820,149656
+Illinois,1820,917
+Indiana,1820,190
+Iowa,1820,NA
+Kansas,1820,NA
+Kentucky,1820,126732
+Louisiana,1820,69064
+Maine,1820,0
+Maryland,1820,107398
+Massachusetts,1820,0
+Michigan,1820,0
+Minnesota,1820,NA
+Mississippi,1820,32814
+Missouri,1820,10222
+Nebraska,1820,NA
+Nevada,1820,NA
+New Hampshire,1820,0
+New Jersey,1820,7557
+New Mexico,1820,NA
+New York,1820,10088
+North Carolina,1820,204917
+Ohio,1820,0
+Oregon,1820,NA
+Pennsylvania,1820,211
+Rhode Island,1820,48
+South Carolina,1820,258475
+Tennessee,1820,80107
+Texas,1820,NA
+Utah Territory,1820,NA
+Vermont,1820,0
+Virginia,1820,411886
+Washington,1820,NA
+West Virginia,1820,15169
+Wisconsin,1820,0
+United States,1820,1538022
+Alabama,1830,117549
+Arkansas,1830,4576
+California,1830,NA
+Colorado,1830,NA
+Connecticut,1830,25
+Delaware,1830,3292
+District of Columbia,1830,4505
+Florida,1830,15501
+Georgia,1830,217531
+Illinois,1830,747
+Indiana,1830,3
+Iowa,1830,NA
+Kansas,1830,NA
+Kentucky,1830,165213
+Louisiana,1830,109588
+Maine,1830,2
+Maryland,1830,102994
+Massachusetts,1830,1
+Michigan,1830,1
+Minnesota,1830,NA
+Mississippi,1830,65659
+Missouri,1830,25091
+Nebraska,1830,NA
+Nevada,1830,NA
+New Hampshire,1830,3
+New Jersey,1830,2254
+New Mexico,1830,NA
+New York,1830,75
+North Carolina,1830,245601
+Ohio,1830,6
+Oregon,1830,NA
+Pennsylvania,1830,403
+Rhode Island,1830,17
+South Carolina,1830,315401
+Tennessee,1830,141603
+Texas,1830,NA
+Utah Territory,1830,NA
+Vermont,1830,0
+Virginia,1830,453698
+Washington,1830,NA
+West Virginia,1830,17673
+Wisconsin,1830,31
+United States,1830,2009043
+Alabama,1840,253532
+Arkansas,1840,19935
+California,1840,NA
+Colorado,1840,NA
+Connecticut,1840,17
+Delaware,1840,2605
+District of Columbia,1840,3320
+Florida,1840,25717
+Georgia,1840,280944
+Illinois,1840,331
+Indiana,1840,3
+Iowa,1840,16
+Kansas,1840,NA
+Kentucky,1840,182258
+Louisiana,1840,168452
+Maine,1840,0
+Maryland,1840,89737
+Massachusetts,1840,0
+Michigan,1840,0
+Minnesota,1840,NA
+Mississippi,1840,195211
+Missouri,1840,58240
+Nebraska,1840,NA
+Nevada,1840,NA
+New Hampshire,1840,1
+New Jersey,1840,674
+New Mexico,1840,NA
+New York,1840,4
+North Carolina,1840,245817
+Ohio,1840,3
+Oregon,1840,NA
+Pennsylvania,1840,64
+Rhode Island,1840,5
+South Carolina,1840,327038
+Tennessee,1840,183059
+Texas,1840,NA
+Utah Territory,1840,NA
+Vermont,1840,0
+Virginia,1840,431873
+Washington,1840,0
+West Virginia,1840,18488
+Wisconsin,1840,11
+United States,1840,2487355
+Alabama,1850,342844
+Arkansas,1850,47100
+California,1850,0
+Colorado,1850,NA
+Connecticut,1850,0
+Delaware,1850,2290
+District of Columbia,1850,3687
+Florida,1850,39310
+Georgia,1850,381682
+Illinois,1850,0
+Indiana,1850,0
+Iowa,1850,0
+Kansas,1850,NA
+Kentucky,1850,210981
+Louisiana,1850,244809
+Maine,1850,0
+Maryland,1850,90368
+Massachusetts,1850,0
+Michigan,1850,0
+Minnesota,1850,0
+Mississippi,1850,309878
+Missouri,1850,87422
+Nebraska,1850,NA
+Nevada,1850,NA
+New Hampshire,1850,0
+New Jersey,1850,236
+New Mexico,1850,0
+New York,1850,0
+North Carolina,1850,288548
+Ohio,1850,0
+Oregon,1850,0
+Pennsylvania,1850,0
+Rhode Island,1850,0
+South Carolina,1850,384984
+Tennessee,1850,239459
+Texas,1850,58161
+Utah Territory,1850,26
+Vermont,1850,0
+Virginia,1850,452028
+Washington,1850,0
+West Virginia,1850,20500
+Wisconsin,1850,0
+United States,1850,3204313
+Alabama,1860,435080
+Arkansas,1860,111115
+California,1860,0
+Colorado,1860,0
+Connecticut,1860,0
+Delaware,1860,1798
+District of Columbia,1860,3185
+Florida,1860,61745
+Georgia,1860,462198
+Illinois,1860,0
+Indiana,1860,0
+Iowa,1860,0
+Kansas,1860,2
+Kentucky,1860,225483
+Louisiana,1860,331726
+Maine,1860,0
+Maryland,1860,87189
+Massachusetts,1860,0
+Michigan,1860,0
+Minnesota,1860,0
+Mississippi,1860,436631
+Missouri,1860,114931
+Nebraska,1860,15
+Nevada,1860,0
+New Hampshire,1860,0
+New Jersey,1860,18
+New Mexico,1860,0
+New York,1860,0
+North Carolina,1860,331059
+Ohio,1860,0
+Oregon,1860,0
+Pennsylvania,1860,0
+Rhode Island,1860,0
+South Carolina,1860,402406
+Tennessee,1860,275719
+Texas,1860,182566
+Utah Territory,1860,29
+Vermont,1860,0
+Virginia,1860,472494
+Washington,1860,0
+West Virginia,1860,18371
+Wisconsin,1860,0
+United States,1860,3953760
