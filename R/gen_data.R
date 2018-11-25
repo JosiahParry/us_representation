@@ -85,7 +85,7 @@ reps_clean <- reps %>%
 census <- left_join(census_tables, enslaved,
                     by = c("name", "year")) %>% 
   mutate(free_pop = population - enslaved_pop,
-         apportioned_pop = coalesce(as.integer(round(population + enslaved_pop * 0.6)), population))
+         apportioned_pop = coalesce(as.integer(round(free_pop + enslaved_pop * 0.6)), population))
 
 
 #------------------------------- Write Data ----------------------------------#
