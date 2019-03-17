@@ -1,3 +1,6 @@
+.DS_store
+lit
+write_ups
 .Rproj.user
 .Rhistory
 .RData
