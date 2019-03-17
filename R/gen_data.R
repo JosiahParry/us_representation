@@ -72,9 +72,7 @@ reps_clean <- reps %>%
   group_by(year) %>% 
   # find the total number of representatives for a given year
   mutate(total_reps = sum(n_reps, na.rm = TRUE)) %>% 
-  ungroup() %>% 
-  # scale the number of reps by the total number of reps
-  mutate(relative_rep_power = n_reps/total_reps)
+  ungroup()
 
 
 
@@ -89,8 +87,8 @@ census <- left_join(census_tables, enslaved,
 
 
 #------------------------------- Write Data ----------------------------------#
-write_csv(census_tables, "data/census_state_pop.csv")
-write_csv(enslaved, "data/us_enslaved_pop.csv")
-write_csv(reps_clean, "data/us_house.csv")
-write_csv(census, "data/census_cleaned_data.csv")
+write_csv(census_tables, "data/us/census_state_pop.csv")
+write_csv(enslaved, "data/us/us_enslaved_pop.csv")
+write_csv(reps_clean, "data/us/us_house.csv")
+write_csv(census, "data/us/census_cleaned_data.csv")
 
