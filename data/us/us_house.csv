@@ -1,0 +1,1151 @@
+state,year,n_reps,state_name,total_reps
+AL,1790,NA,Alabama,170
+AK,1790,NA,Alaska,170
+AZ,1790,NA,Arizona,170
+AR,1790,NA,Arkansas,170
+CA,1790,NA,California,170
+CO,1790,NA,Colorado,170
+CT,1790,5,Connecticut,170
+DE,1790,1,Delaware,170
+FL,1790,NA,Florida,170
+GA,1790,3,Georgia,170
+HI,1790,NA,Hawaii,170
+ID,1790,NA,Idaho,170
+IL,1790,NA,Illinois,170
+IN,1790,NA,Indiana,170
+IA,1790,NA,Iowa,170
+KS,1790,NA,Kansas,170
+KY,1790,NA,Kentucky,170
+LA,1790,NA,Louisiana,170
+ME,1790,NA,Maine,170
+MD,1790,6,Maryland,170
+MA,1790,8,Massachusetts,170
+MI,1790,NA,Michigan,170
+MN,1790,NA,Minnesota,170
+MS,1790,NA,Mississippi,170
+MO,1790,NA,Missouri,170
+MT,1790,NA,Montana,170
+NE,1790,NA,Nebraska,170
+NV,1790,NA,Nevada,170
+NH,1790,3,New Hampshire,170
+NJ,1790,4,New Jersey,170
+NM,1790,NA,New Mexico,170
+NY,1790,6,New York,170
+NC,1790,5,North Carolina,170
+ND,1790,NA,North Dakota,170
+OH,1790,NA,Ohio,170
+OK,1790,NA,Oklahoma,170
+OR,1790,NA,Oregon,170
+PA,1790,8,Pennsylvania,170
+RI,1790,1,Rhode Island,170
+SC,1790,5,South Carolina,170
+SD,1790,NA,South Dakota,170
+TN,1790,NA,Tennessee,170
+TX,1790,NA,Texas,170
+UT,1790,NA,Utah,170
+VT,1790,NA,Vermont,170
+VA,1790,10,Virginia,170
+WA,1790,NA,Washington,170
+WV,1790,NA,West Virginia,170
+WI,1790,NA,Wisconsin,170
+WY,1790,NA,Wyoming,170
+AL,1790,NA,Alabama,170
+AK,1790,NA,Alaska,170
+AZ,1790,NA,Arizona,170
+AR,1790,NA,Arkansas,170
+CA,1790,NA,California,170
+CO,1790,NA,Colorado,170
+CT,1790,7,Connecticut,170
+DE,1790,1,Delaware,170
+FL,1790,NA,Florida,170
+GA,1790,2,Georgia,170
+HI,1790,NA,Hawaii,170
+ID,1790,NA,Idaho,170
+IL,1790,NA,Illinois,170
+IN,1790,NA,Indiana,170
+IA,1790,NA,Iowa,170
+KS,1790,NA,Kansas,170
+KY,1790,2,Kentucky,170
+LA,1790,NA,Louisiana,170
+ME,1790,NA,Maine,170
+MD,1790,8,Maryland,170
+MA,1790,14,Massachusetts,170
+MI,1790,NA,Michigan,170
+MN,1790,NA,Minnesota,170
+MS,1790,NA,Mississippi,170
+MO,1790,NA,Missouri,170
+MT,1790,NA,Montana,170
+NE,1790,NA,Nebraska,170
+NV,1790,NA,Nevada,170
+NH,1790,4,New Hampshire,170
+NJ,1790,5,New Jersey,170
+NM,1790,NA,New Mexico,170
+NY,1790,10,New York,170
+NC,1790,10,North Carolina,170
+ND,1790,NA,North Dakota,170
+OH,1790,NA,Ohio,170
+OK,1790,NA,Oklahoma,170
+OR,1790,NA,Oregon,170
+PA,1790,13,Pennsylvania,170
+RI,1790,2,Rhode Island,170
+SC,1790,6,South Carolina,170
+SD,1790,NA,South Dakota,170
+TN,1790,NA,Tennessee,170
+TX,1790,NA,Texas,170
+UT,1790,NA,Utah,170
+VT,1790,2,Vermont,170
+VA,1790,19,Virginia,170
+WA,1790,NA,Washington,170
+WV,1790,NA,West Virginia,170
+WI,1790,NA,Wisconsin,170
+WY,1790,NA,Wyoming,170
+AL,1800,NA,Alabama,142
+AK,1800,NA,Alaska,142
+AZ,1800,NA,Arizona,142
+AR,1800,NA,Arkansas,142
+CA,1800,NA,California,142
+CO,1800,NA,Colorado,142
+CT,1800,7,Connecticut,142
+DE,1800,1,Delaware,142
+FL,1800,NA,Florida,142
+GA,1800,4,Georgia,142
+HI,1800,NA,Hawaii,142
+ID,1800,NA,Idaho,142
+IL,1800,NA,Illinois,142
+IN,1800,NA,Indiana,142
+IA,1800,NA,Iowa,142
+KS,1800,NA,Kansas,142
+KY,1800,6,Kentucky,142
+LA,1800,NA,Louisiana,142
+ME,1800,NA,Maine,142
+MD,1800,9,Maryland,142
+MA,1800,17,Massachusetts,142
+MI,1800,NA,Michigan,142
+MN,1800,NA,Minnesota,142
+MS,1800,NA,Mississippi,142
+MO,1800,NA,Missouri,142
+MT,1800,NA,Montana,142
+NE,1800,NA,Nebraska,142
+NV,1800,NA,Nevada,142
+NH,1800,5,New Hampshire,142
+NJ,1800,6,New Jersey,142
+NM,1800,NA,New Mexico,142
+NY,1800,17,New York,142
+NC,1800,12,North Carolina,142
+ND,1800,NA,North Dakota,142
+OH,1800,1,Ohio,142
+OK,1800,NA,Oklahoma,142
+OR,1800,NA,Oregon,142
+PA,1800,18,Pennsylvania,142
+RI,1800,2,Rhode Island,142
+SC,1800,8,South Carolina,142
+SD,1800,NA,South Dakota,142
+TN,1800,3,Tennessee,142
+TX,1800,NA,Texas,142
+UT,1800,NA,Utah,142
+VT,1800,4,Vermont,142
+VA,1800,22,Virginia,142
+WA,1800,NA,Washington,142
+WV,1800,NA,West Virginia,142
+WI,1800,NA,Wisconsin,142
+WY,1800,NA,Wyoming,142
+AL,1810,NA,Alabama,182
+AK,1810,NA,Alaska,182
+AZ,1810,NA,Arizona,182
+AR,1810,NA,Arkansas,182
+CA,1810,NA,California,182
+CO,1810,NA,Colorado,182
+CT,1810,7,Connecticut,182
+DE,1810,2,Delaware,182
+FL,1810,NA,Florida,182
+GA,1810,6,Georgia,182
+HI,1810,NA,Hawaii,182
+ID,1810,NA,Idaho,182
+IL,1810,NA,Illinois,182
+IN,1810,NA,Indiana,182
+IA,1810,NA,Iowa,182
+KS,1810,NA,Kansas,182
+KY,1810,10,Kentucky,182
+LA,1810,1,Louisiana,182
+ME,1810,NA,Maine,182
+MD,1810,9,Maryland,182
+MA,1810,20,Massachusetts,182
+MI,1810,NA,Michigan,182
+MN,1810,NA,Minnesota,182
+MS,1810,NA,Mississippi,182
+MO,1810,NA,Missouri,182
+MT,1810,NA,Montana,182
+NE,1810,NA,Nebraska,182
+NV,1810,NA,Nevada,182
+NH,1810,6,New Hampshire,182
+NJ,1810,6,New Jersey,182
+NM,1810,NA,New Mexico,182
+NY,1810,27,New York,182
+NC,1810,13,North Carolina,182
+ND,1810,NA,North Dakota,182
+OH,1810,6,Ohio,182
+OK,1810,NA,Oklahoma,182
+OR,1810,NA,Oregon,182
+PA,1810,23,Pennsylvania,182
+RI,1810,2,Rhode Island,182
+SC,1810,9,South Carolina,182
+SD,1810,NA,South Dakota,182
+TN,1810,6,Tennessee,182
+TX,1810,NA,Texas,182
+UT,1810,NA,Utah,182
+VT,1810,6,Vermont,182
+VA,1810,23,Virginia,182
+WA,1810,NA,Washington,182
+WV,1810,NA,West Virginia,182
+WI,1810,NA,Wisconsin,182
+WY,1810,NA,Wyoming,182
+AL,1820,3,Alabama,213
+AK,1820,NA,Alaska,213
+AZ,1820,NA,Arizona,213
+AR,1820,NA,Arkansas,213
+CA,1820,NA,California,213
+CO,1820,NA,Colorado,213
+CT,1820,6,Connecticut,213
+DE,1820,1,Delaware,213
+FL,1820,NA,Florida,213
+GA,1820,7,Georgia,213
+HI,1820,NA,Hawaii,213
+ID,1820,NA,Idaho,213
+IL,1820,1,Illinois,213
+IN,1820,3,Indiana,213
+IA,1820,NA,Iowa,213
+KS,1820,NA,Kansas,213
+KY,1820,12,Kentucky,213
+LA,1820,3,Louisiana,213
+ME,1820,7,Maine,213
+MD,1820,9,Maryland,213
+MA,1820,13,Massachusetts,213
+MI,1820,NA,Michigan,213
+MN,1820,NA,Minnesota,213
+MS,1820,1,Mississippi,213
+MO,1820,1,Missouri,213
+MT,1820,NA,Montana,213
+NE,1820,NA,Nebraska,213
+NV,1820,NA,Nevada,213
+NH,1820,6,New Hampshire,213
+NJ,1820,6,New Jersey,213
+NM,1820,NA,New Mexico,213
+NY,1820,34,New York,213
+NC,1820,13,North Carolina,213
+ND,1820,NA,North Dakota,213
+OH,1820,14,Ohio,213
+OK,1820,NA,Oklahoma,213
+OR,1820,NA,Oregon,213
+PA,1820,26,Pennsylvania,213
+RI,1820,2,Rhode Island,213
+SC,1820,9,South Carolina,213
+SD,1820,NA,South Dakota,213
+TN,1820,9,Tennessee,213
+TX,1820,NA,Texas,213
+UT,1820,NA,Utah,213
+VT,1820,5,Vermont,213
+VA,1820,22,Virginia,213
+WA,1820,NA,Washington,213
+WV,1820,NA,West Virginia,213
+WI,1820,NA,Wisconsin,213
+WY,1820,NA,Wyoming,213
+AL,1830,5,Alabama,240
+AK,1830,NA,Alaska,240
+AZ,1830,NA,Arizona,240
+AR,1830,NA,Arkansas,240
+CA,1830,NA,California,240
+CO,1830,NA,Colorado,240
+CT,1830,6,Connecticut,240
+DE,1830,1,Delaware,240
+FL,1830,NA,Florida,240
+GA,1830,9,Georgia,240
+HI,1830,NA,Hawaii,240
+ID,1830,NA,Idaho,240
+IL,1830,3,Illinois,240
+IN,1830,7,Indiana,240
+IA,1830,NA,Iowa,240
+KS,1830,NA,Kansas,240
+KY,1830,13,Kentucky,240
+LA,1830,3,Louisiana,240
+ME,1830,8,Maine,240
+MD,1830,8,Maryland,240
+MA,1830,12,Massachusetts,240
+MI,1830,NA,Michigan,240
+MN,1830,NA,Minnesota,240
+MS,1830,2,Mississippi,240
+MO,1830,2,Missouri,240
+MT,1830,NA,Montana,240
+NE,1830,NA,Nebraska,240
+NV,1830,NA,Nevada,240
+NH,1830,5,New Hampshire,240
+NJ,1830,6,New Jersey,240
+NM,1830,NA,New Mexico,240
+NY,1830,40,New York,240
+NC,1830,13,North Carolina,240
+ND,1830,NA,North Dakota,240
+OH,1830,19,Ohio,240
+OK,1830,NA,Oklahoma,240
+OR,1830,NA,Oregon,240
+PA,1830,28,Pennsylvania,240
+RI,1830,2,Rhode Island,240
+SC,1830,9,South Carolina,240
+SD,1830,NA,South Dakota,240
+TN,1830,13,Tennessee,240
+TX,1830,NA,Texas,240
+UT,1830,NA,Utah,240
+VT,1830,5,Vermont,240
+VA,1830,21,Virginia,240
+WA,1830,NA,Washington,240
+WV,1830,NA,West Virginia,240
+WI,1830,NA,Wisconsin,240
+WY,1830,NA,Wyoming,240
+AL,1840,7,Alabama,223
+AK,1840,NA,Alaska,223
+AZ,1840,NA,Arizona,223
+AR,1840,1,Arkansas,223
+CA,1840,NA,California,223
+CO,1840,NA,Colorado,223
+CT,1840,4,Connecticut,223
+DE,1840,1,Delaware,223
+FL,1840,NA,Florida,223
+GA,1840,8,Georgia,223
+HI,1840,NA,Hawaii,223
+ID,1840,NA,Idaho,223
+IL,1840,7,Illinois,223
+IN,1840,10,Indiana,223
+IA,1840,NA,Iowa,223
+KS,1840,NA,Kansas,223
+KY,1840,10,Kentucky,223
+LA,1840,4,Louisiana,223
+ME,1840,7,Maine,223
+MD,1840,6,Maryland,223
+MA,1840,10,Massachusetts,223
+MI,1840,3,Michigan,223
+MN,1840,NA,Minnesota,223
+MS,1840,4,Mississippi,223
+MO,1840,5,Missouri,223
+MT,1840,NA,Montana,223
+NE,1840,NA,Nebraska,223
+NV,1840,NA,Nevada,223
+NH,1840,4,New Hampshire,223
+NJ,1840,5,New Jersey,223
+NM,1840,NA,New Mexico,223
+NY,1840,34,New York,223
+NC,1840,9,North Carolina,223
+ND,1840,NA,North Dakota,223
+OH,1840,21,Ohio,223
+OK,1840,NA,Oklahoma,223
+OR,1840,NA,Oregon,223
+PA,1840,24,Pennsylvania,223
+RI,1840,2,Rhode Island,223
+SC,1840,7,South Carolina,223
+SD,1840,NA,South Dakota,223
+TN,1840,11,Tennessee,223
+TX,1840,NA,Texas,223
+UT,1840,NA,Utah,223
+VT,1840,4,Vermont,223
+VA,1840,15,Virginia,223
+WA,1840,NA,Washington,223
+WV,1840,NA,West Virginia,223
+WI,1840,NA,Wisconsin,223
+WY,1840,NA,Wyoming,223
+AL,1850,7,Alabama,234
+AK,1850,NA,Alaska,234
+AZ,1850,NA,Arizona,234
+AR,1850,2,Arkansas,234
+CA,1850,2,California,234
+CO,1850,NA,Colorado,234
+CT,1850,4,Connecticut,234
+DE,1850,1,Delaware,234
+FL,1850,1,Florida,234
+GA,1850,8,Georgia,234
+HI,1850,NA,Hawaii,234
+ID,1850,NA,Idaho,234
+IL,1850,9,Illinois,234
+IN,1850,11,Indiana,234
+IA,1850,2,Iowa,234
+KS,1850,NA,Kansas,234
+KY,1850,10,Kentucky,234
+LA,1850,4,Louisiana,234
+ME,1850,6,Maine,234
+MD,1850,6,Maryland,234
+MA,1850,11,Massachusetts,234
+MI,1850,4,Michigan,234
+MN,1850,NA,Minnesota,234
+MS,1850,5,Mississippi,234
+MO,1850,7,Missouri,234
+MT,1850,NA,Montana,234
+NE,1850,NA,Nebraska,234
+NV,1850,NA,Nevada,234
+NH,1850,3,New Hampshire,234
+NJ,1850,5,New Jersey,234
+NM,1850,NA,New Mexico,234
+NY,1850,33,New York,234
+NC,1850,8,North Carolina,234
+ND,1850,NA,North Dakota,234
+OH,1850,21,Ohio,234
+OK,1850,NA,Oklahoma,234
+OR,1850,NA,Oregon,234
+PA,1850,25,Pennsylvania,234
+RI,1850,2,Rhode Island,234
+SC,1850,6,South Carolina,234
+SD,1850,NA,South Dakota,234
+TN,1850,10,Tennessee,234
+TX,1850,2,Texas,234
+UT,1850,NA,Utah,234
+VT,1850,3,Vermont,234
+VA,1850,13,Virginia,234
+WA,1850,NA,Washington,234
+WV,1850,NA,West Virginia,234
+WI,1850,3,Wisconsin,234
+WY,1850,NA,Wyoming,234
+AL,1860,6,Alabama,241
+AK,1860,NA,Alaska,241
+AZ,1860,NA,Arizona,241
+AR,1860,3,Arkansas,241
+CA,1860,3,California,241
+CO,1860,NA,Colorado,241
+CT,1860,4,Connecticut,241
+DE,1860,1,Delaware,241
+FL,1860,1,Florida,241
+GA,1860,7,Georgia,241
+HI,1860,NA,Hawaii,241
+ID,1860,NA,Idaho,241
+IL,1860,14,Illinois,241
+IN,1860,11,Indiana,241
+IA,1860,6,Iowa,241
+KS,1860,1,Kansas,241
+KY,1860,9,Kentucky,241
+LA,1860,5,Louisiana,241
+ME,1860,5,Maine,241
+MD,1860,5,Maryland,241
+MA,1860,10,Massachusetts,241
+MI,1860,6,Michigan,241
+MN,1860,2,Minnesota,241
+MS,1860,5,Mississippi,241
+MO,1860,9,Missouri,241
+MT,1860,NA,Montana,241
+NE,1860,NA,Nebraska,241
+NV,1860,NA,Nevada,241
+NH,1860,3,New Hampshire,241
+NJ,1860,5,New Jersey,241
+NM,1860,NA,New Mexico,241
+NY,1860,31,New York,241
+NC,1860,7,North Carolina,241
+ND,1860,NA,North Dakota,241
+OH,1860,19,Ohio,241
+OK,1860,NA,Oklahoma,241
+OR,1860,1,Oregon,241
+PA,1860,24,Pennsylvania,241
+RI,1860,2,Rhode Island,241
+SC,1860,4,South Carolina,241
+SD,1860,NA,South Dakota,241
+TN,1860,8,Tennessee,241
+TX,1860,4,Texas,241
+UT,1860,NA,Utah,241
+VT,1860,3,Vermont,241
+VA,1860,11,Virginia,241
+WA,1860,NA,Washington,241
+WV,1860,NA,West Virginia,241
+WI,1860,6,Wisconsin,241
+WY,1860,NA,Wyoming,241
+AL,1870,8,Alabama,292
+AK,1870,NA,Alaska,292
+AZ,1870,NA,Arizona,292
+AR,1870,4,Arkansas,292
+CA,1870,4,California,292
+CO,1870,NA,Colorado,292
+CT,1870,4,Connecticut,292
+DE,1870,1,Delaware,292
+FL,1870,2,Florida,292
+GA,1870,9,Georgia,292
+HI,1870,NA,Hawaii,292
+ID,1870,NA,Idaho,292
+IL,1870,19,Illinois,292
+IN,1870,13,Indiana,292
+IA,1870,9,Iowa,292
+KS,1870,3,Kansas,292
+KY,1870,10,Kentucky,292
+LA,1870,6,Louisiana,292
+ME,1870,5,Maine,292
+MD,1870,6,Maryland,292
+MA,1870,11,Massachusetts,292
+MI,1870,9,Michigan,292
+MN,1870,3,Minnesota,292
+MS,1870,6,Mississippi,292
+MO,1870,13,Missouri,292
+MT,1870,NA,Montana,292
+NE,1870,1,Nebraska,292
+NV,1870,1,Nevada,292
+NH,1870,3,New Hampshire,292
+NJ,1870,7,New Jersey,292
+NM,1870,NA,New Mexico,292
+NY,1870,33,New York,292
+NC,1870,8,North Carolina,292
+ND,1870,NA,North Dakota,292
+OH,1870,20,Ohio,292
+OK,1870,NA,Oklahoma,292
+OR,1870,1,Oregon,292
+PA,1870,27,Pennsylvania,292
+RI,1870,2,Rhode Island,292
+SC,1870,5,South Carolina,292
+SD,1870,NA,South Dakota,292
+TN,1870,10,Tennessee,292
+TX,1870,6,Texas,292
+UT,1870,NA,Utah,292
+VT,1870,3,Vermont,292
+VA,1870,9,Virginia,292
+WA,1870,NA,Washington,292
+WV,1870,3,West Virginia,292
+WI,1870,8,Wisconsin,292
+WY,1870,NA,Wyoming,292
+AL,1880,8,Alabama,325
+AK,1880,NA,Alaska,325
+AZ,1880,NA,Arizona,325
+AR,1880,5,Arkansas,325
+CA,1880,6,California,325
+CO,1880,1,Colorado,325
+CT,1880,4,Connecticut,325
+DE,1880,1,Delaware,325
+FL,1880,2,Florida,325
+GA,1880,10,Georgia,325
+HI,1880,NA,Hawaii,325
+ID,1880,NA,Idaho,325
+IL,1880,20,Illinois,325
+IN,1880,13,Indiana,325
+IA,1880,11,Iowa,325
+KS,1880,7,Kansas,325
+KY,1880,11,Kentucky,325
+LA,1880,6,Louisiana,325
+ME,1880,4,Maine,325
+MD,1880,6,Maryland,325
+MA,1880,12,Massachusetts,325
+MI,1880,11,Michigan,325
+MN,1880,5,Minnesota,325
+MS,1880,7,Mississippi,325
+MO,1880,14,Missouri,325
+MT,1880,NA,Montana,325
+NE,1880,3,Nebraska,325
+NV,1880,1,Nevada,325
+NH,1880,2,New Hampshire,325
+NJ,1880,7,New Jersey,325
+NM,1880,NA,New Mexico,325
+NY,1880,34,New York,325
+NC,1880,9,North Carolina,325
+ND,1880,NA,North Dakota,325
+OH,1880,21,Ohio,325
+OK,1880,NA,Oklahoma,325
+OR,1880,1,Oregon,325
+PA,1880,28,Pennsylvania,325
+RI,1880,2,Rhode Island,325
+SC,1880,7,South Carolina,325
+SD,1880,NA,South Dakota,325
+TN,1880,10,Tennessee,325
+TX,1880,11,Texas,325
+UT,1880,NA,Utah,325
+VT,1880,2,Vermont,325
+VA,1880,10,Virginia,325
+WA,1880,NA,Washington,325
+WV,1880,4,West Virginia,325
+WI,1880,9,Wisconsin,325
+WY,1880,NA,Wyoming,325
+AL,1890,9,Alabama,356
+AK,1890,NA,Alaska,356
+AZ,1890,NA,Arizona,356
+AR,1890,6,Arkansas,356
+CA,1890,7,California,356
+CO,1890,2,Colorado,356
+CT,1890,4,Connecticut,356
+DE,1890,1,Delaware,356
+FL,1890,2,Florida,356
+GA,1890,11,Georgia,356
+HI,1890,NA,Hawaii,356
+ID,1890,1,Idaho,356
+IL,1890,22,Illinois,356
+IN,1890,13,Indiana,356
+IA,1890,11,Iowa,356
+KS,1890,8,Kansas,356
+KY,1890,11,Kentucky,356
+LA,1890,6,Louisiana,356
+ME,1890,4,Maine,356
+MD,1890,6,Maryland,356
+MA,1890,13,Massachusetts,356
+MI,1890,12,Michigan,356
+MN,1890,7,Minnesota,356
+MS,1890,7,Mississippi,356
+MO,1890,15,Missouri,356
+MT,1890,1,Montana,356
+NE,1890,6,Nebraska,356
+NV,1890,1,Nevada,356
+NH,1890,2,New Hampshire,356
+NJ,1890,8,New Jersey,356
+NM,1890,NA,New Mexico,356
+NY,1890,34,New York,356
+NC,1890,9,North Carolina,356
+ND,1890,1,North Dakota,356
+OH,1890,21,Ohio,356
+OK,1890,NA,Oklahoma,356
+OR,1890,2,Oregon,356
+PA,1890,30,Pennsylvania,356
+RI,1890,2,Rhode Island,356
+SC,1890,7,South Carolina,356
+SD,1890,2,South Dakota,356
+TN,1890,10,Tennessee,356
+TX,1890,13,Texas,356
+UT,1890,NA,Utah,356
+VT,1890,2,Vermont,356
+VA,1890,10,Virginia,356
+WA,1890,2,Washington,356
+WV,1890,4,West Virginia,356
+WI,1890,10,Wisconsin,356
+WY,1890,1,Wyoming,356
+AL,1900,9,Alabama,386
+AK,1900,NA,Alaska,386
+AZ,1900,NA,Arizona,386
+AR,1900,7,Arkansas,386
+CA,1900,8,California,386
+CO,1900,3,Colorado,386
+CT,1900,5,Connecticut,386
+DE,1900,1,Delaware,386
+FL,1900,3,Florida,386
+GA,1900,11,Georgia,386
+HI,1900,NA,Hawaii,386
+ID,1900,1,Idaho,386
+IL,1900,25,Illinois,386
+IN,1900,13,Indiana,386
+IA,1900,11,Iowa,386
+KS,1900,8,Kansas,386
+KY,1900,11,Kentucky,386
+LA,1900,7,Louisiana,386
+ME,1900,4,Maine,386
+MD,1900,6,Maryland,386
+MA,1900,14,Massachusetts,386
+MI,1900,12,Michigan,386
+MN,1900,9,Minnesota,386
+MS,1900,8,Mississippi,386
+MO,1900,16,Missouri,386
+MT,1900,1,Montana,386
+NE,1900,6,Nebraska,386
+NV,1900,1,Nevada,386
+NH,1900,2,New Hampshire,386
+NJ,1900,10,New Jersey,386
+NM,1900,NA,New Mexico,386
+NY,1900,37,New York,386
+NC,1900,10,North Carolina,386
+ND,1900,2,North Dakota,386
+OH,1900,21,Ohio,386
+OK,1900,NA,Oklahoma,386
+OR,1900,2,Oregon,386
+PA,1900,32,Pennsylvania,386
+RI,1900,2,Rhode Island,386
+SC,1900,7,South Carolina,386
+SD,1900,2,South Dakota,386
+TN,1900,10,Tennessee,386
+TX,1900,16,Texas,386
+UT,1900,1,Utah,386
+VT,1900,2,Vermont,386
+VA,1900,10,Virginia,386
+WA,1900,3,Washington,386
+WV,1900,5,West Virginia,386
+WI,1900,11,Wisconsin,386
+WY,1900,1,Wyoming,386
+AL,1910,10,Alabama,435
+AK,1910,NA,Alaska,435
+AZ,1910,1,Arizona,435
+AR,1910,7,Arkansas,435
+CA,1910,11,California,435
+CO,1910,4,Colorado,435
+CT,1910,5,Connecticut,435
+DE,1910,1,Delaware,435
+FL,1910,4,Florida,435
+GA,1910,12,Georgia,435
+HI,1910,NA,Hawaii,435
+ID,1910,2,Idaho,435
+IL,1910,27,Illinois,435
+IN,1910,13,Indiana,435
+IA,1910,11,Iowa,435
+KS,1910,8,Kansas,435
+KY,1910,11,Kentucky,435
+LA,1910,8,Louisiana,435
+ME,1910,4,Maine,435
+MD,1910,6,Maryland,435
+MA,1910,16,Massachusetts,435
+MI,1910,13,Michigan,435
+MN,1910,10,Minnesota,435
+MS,1910,8,Mississippi,435
+MO,1910,16,Missouri,435
+MT,1910,2,Montana,435
+NE,1910,6,Nebraska,435
+NV,1910,1,Nevada,435
+NH,1910,2,New Hampshire,435
+NJ,1910,12,New Jersey,435
+NM,1910,1,New Mexico,435
+NY,1910,43,New York,435
+NC,1910,10,North Carolina,435
+ND,1910,3,North Dakota,435
+OH,1910,22,Ohio,435
+OK,1910,8,Oklahoma,435
+OR,1910,3,Oregon,435
+PA,1910,36,Pennsylvania,435
+RI,1910,3,Rhode Island,435
+SC,1910,7,South Carolina,435
+SD,1910,3,South Dakota,435
+TN,1910,10,Tennessee,435
+TX,1910,18,Texas,435
+UT,1910,2,Utah,435
+VT,1910,2,Vermont,435
+VA,1910,10,Virginia,435
+WA,1910,5,Washington,435
+WV,1910,6,West Virginia,435
+WI,1910,11,Wisconsin,435
+WY,1910,1,Wyoming,435
+AL,1930,9,Alabama,435
+AK,1930,NA,Alaska,435
+AZ,1930,1,Arizona,435
+AR,1930,7,Arkansas,435
+CA,1930,20,California,435
+CO,1930,4,Colorado,435
+CT,1930,6,Connecticut,435
+DE,1930,1,Delaware,435
+FL,1930,5,Florida,435
+GA,1930,10,Georgia,435
+HI,1930,NA,Hawaii,435
+ID,1930,2,Idaho,435
+IL,1930,27,Illinois,435
+IN,1930,12,Indiana,435
+IA,1930,9,Iowa,435
+KS,1930,7,Kansas,435
+KY,1930,9,Kentucky,435
+LA,1930,8,Louisiana,435
+ME,1930,3,Maine,435
+MD,1930,6,Maryland,435
+MA,1930,15,Massachusetts,435
+MI,1930,17,Michigan,435
+MN,1930,9,Minnesota,435
+MS,1930,7,Mississippi,435
+MO,1930,13,Missouri,435
+MT,1930,2,Montana,435
+NE,1930,5,Nebraska,435
+NV,1930,1,Nevada,435
+NH,1930,2,New Hampshire,435
+NJ,1930,14,New Jersey,435
+NM,1930,1,New Mexico,435
+NY,1930,45,New York,435
+NC,1930,11,North Carolina,435
+ND,1930,2,North Dakota,435
+OH,1930,24,Ohio,435
+OK,1930,9,Oklahoma,435
+OR,1930,3,Oregon,435
+PA,1930,34,Pennsylvania,435
+RI,1930,2,Rhode Island,435
+SC,1930,6,South Carolina,435
+SD,1930,2,South Dakota,435
+TN,1930,9,Tennessee,435
+TX,1930,21,Texas,435
+UT,1930,2,Utah,435
+VT,1930,1,Vermont,435
+VA,1930,9,Virginia,435
+WA,1930,6,Washington,435
+WV,1930,6,West Virginia,435
+WI,1930,10,Wisconsin,435
+WY,1930,1,Wyoming,435
+AL,1940,9,Alabama,435
+AK,1940,NA,Alaska,435
+AZ,1940,2,Arizona,435
+AR,1940,7,Arkansas,435
+CA,1940,23,California,435
+CO,1940,4,Colorado,435
+CT,1940,6,Connecticut,435
+DE,1940,1,Delaware,435
+FL,1940,6,Florida,435
+GA,1940,10,Georgia,435
+HI,1940,NA,Hawaii,435
+ID,1940,2,Idaho,435
+IL,1940,26,Illinois,435
+IN,1940,11,Indiana,435
+IA,1940,8,Iowa,435
+KS,1940,6,Kansas,435
+KY,1940,9,Kentucky,435
+LA,1940,8,Louisiana,435
+ME,1940,3,Maine,435
+MD,1940,6,Maryland,435
+MA,1940,14,Massachusetts,435
+MI,1940,17,Michigan,435
+MN,1940,9,Minnesota,435
+MS,1940,7,Mississippi,435
+MO,1940,13,Missouri,435
+MT,1940,2,Montana,435
+NE,1940,4,Nebraska,435
+NV,1940,1,Nevada,435
+NH,1940,2,New Hampshire,435
+NJ,1940,14,New Jersey,435
+NM,1940,2,New Mexico,435
+NY,1940,45,New York,435
+NC,1940,12,North Carolina,435
+ND,1940,2,North Dakota,435
+OH,1940,23,Ohio,435
+OK,1940,8,Oklahoma,435
+OR,1940,4,Oregon,435
+PA,1940,33,Pennsylvania,435
+RI,1940,2,Rhode Island,435
+SC,1940,6,South Carolina,435
+SD,1940,2,South Dakota,435
+TN,1940,10,Tennessee,435
+TX,1940,21,Texas,435
+UT,1940,2,Utah,435
+VT,1940,1,Vermont,435
+VA,1940,9,Virginia,435
+WA,1940,6,Washington,435
+WV,1940,6,West Virginia,435
+WI,1940,10,Wisconsin,435
+WY,1940,1,Wyoming,435
+AL,1950,9,Alabama,435
+AK,1950,NA,Alaska,435
+AZ,1950,2,Arizona,435
+AR,1950,6,Arkansas,435
+CA,1950,30,California,435
+CO,1950,4,Colorado,435
+CT,1950,6,Connecticut,435
+DE,1950,1,Delaware,435
+FL,1950,8,Florida,435
+GA,1950,10,Georgia,435
+HI,1950,NA,Hawaii,435
+ID,1950,2,Idaho,435
+IL,1950,25,Illinois,435
+IN,1950,11,Indiana,435
+IA,1950,8,Iowa,435
+KS,1950,6,Kansas,435
+KY,1950,8,Kentucky,435
+LA,1950,8,Louisiana,435
+ME,1950,3,Maine,435
+MD,1950,7,Maryland,435
+MA,1950,14,Massachusetts,435
+MI,1950,18,Michigan,435
+MN,1950,9,Minnesota,435
+MS,1950,6,Mississippi,435
+MO,1950,11,Missouri,435
+MT,1950,2,Montana,435
+NE,1950,4,Nebraska,435
+NV,1950,1,Nevada,435
+NH,1950,2,New Hampshire,435
+NJ,1950,14,New Jersey,435
+NM,1950,2,New Mexico,435
+NY,1950,43,New York,435
+NC,1950,12,North Carolina,435
+ND,1950,2,North Dakota,435
+OH,1950,23,Ohio,435
+OK,1950,6,Oklahoma,435
+OR,1950,4,Oregon,435
+PA,1950,30,Pennsylvania,435
+RI,1950,2,Rhode Island,435
+SC,1950,6,South Carolina,435
+SD,1950,2,South Dakota,435
+TN,1950,9,Tennessee,435
+TX,1950,22,Texas,435
+UT,1950,2,Utah,435
+VT,1950,1,Vermont,435
+VA,1950,10,Virginia,435
+WA,1950,7,Washington,435
+WV,1950,6,West Virginia,435
+WI,1950,10,Wisconsin,435
+WY,1950,1,Wyoming,435
+AL,1960,8,Alabama,435
+AK,1960,1,Alaska,435
+AZ,1960,3,Arizona,435
+AR,1960,4,Arkansas,435
+CA,1960,38,California,435
+CO,1960,4,Colorado,435
+CT,1960,6,Connecticut,435
+DE,1960,1,Delaware,435
+FL,1960,12,Florida,435
+GA,1960,10,Georgia,435
+HI,1960,2,Hawaii,435
+ID,1960,2,Idaho,435
+IL,1960,24,Illinois,435
+IN,1960,11,Indiana,435
+IA,1960,7,Iowa,435
+KS,1960,5,Kansas,435
+KY,1960,7,Kentucky,435
+LA,1960,8,Louisiana,435
+ME,1960,2,Maine,435
+MD,1960,8,Maryland,435
+MA,1960,12,Massachusetts,435
+MI,1960,19,Michigan,435
+MN,1960,8,Minnesota,435
+MS,1960,5,Mississippi,435
+MO,1960,10,Missouri,435
+MT,1960,2,Montana,435
+NE,1960,3,Nebraska,435
+NV,1960,1,Nevada,435
+NH,1960,2,New Hampshire,435
+NJ,1960,15,New Jersey,435
+NM,1960,2,New Mexico,435
+NY,1960,41,New York,435
+NC,1960,11,North Carolina,435
+ND,1960,2,North Dakota,435
+OH,1960,24,Ohio,435
+OK,1960,6,Oklahoma,435
+OR,1960,4,Oregon,435
+PA,1960,27,Pennsylvania,435
+RI,1960,2,Rhode Island,435
+SC,1960,6,South Carolina,435
+SD,1960,2,South Dakota,435
+TN,1960,9,Tennessee,435
+TX,1960,23,Texas,435
+UT,1960,2,Utah,435
+VT,1960,1,Vermont,435
+VA,1960,10,Virginia,435
+WA,1960,7,Washington,435
+WV,1960,5,West Virginia,435
+WI,1960,10,Wisconsin,435
+WY,1960,1,Wyoming,435
+AL,1970,7,Alabama,435
+AK,1970,1,Alaska,435
+AZ,1970,4,Arizona,435
+AR,1970,4,Arkansas,435
+CA,1970,43,California,435
+CO,1970,5,Colorado,435
+CT,1970,6,Connecticut,435
+DE,1970,1,Delaware,435
+FL,1970,15,Florida,435
+GA,1970,10,Georgia,435
+HI,1970,2,Hawaii,435
+ID,1970,2,Idaho,435
+IL,1970,24,Illinois,435
+IN,1970,11,Indiana,435
+IA,1970,6,Iowa,435
+KS,1970,5,Kansas,435
+KY,1970,7,Kentucky,435
+LA,1970,8,Louisiana,435
+ME,1970,2,Maine,435
+MD,1970,8,Maryland,435
+MA,1970,12,Massachusetts,435
+MI,1970,19,Michigan,435
+MN,1970,8,Minnesota,435
+MS,1970,5,Mississippi,435
+MO,1970,10,Missouri,435
+MT,1970,2,Montana,435
+NE,1970,3,Nebraska,435
+NV,1970,1,Nevada,435
+NH,1970,2,New Hampshire,435
+NJ,1970,15,New Jersey,435
+NM,1970,2,New Mexico,435
+NY,1970,39,New York,435
+NC,1970,11,North Carolina,435
+ND,1970,1,North Dakota,435
+OH,1970,23,Ohio,435
+OK,1970,6,Oklahoma,435
+OR,1970,4,Oregon,435
+PA,1970,25,Pennsylvania,435
+RI,1970,2,Rhode Island,435
+SC,1970,6,South Carolina,435
+SD,1970,2,South Dakota,435
+TN,1970,8,Tennessee,435
+TX,1970,24,Texas,435
+UT,1970,2,Utah,435
+VT,1970,1,Vermont,435
+VA,1970,10,Virginia,435
+WA,1970,7,Washington,435
+WV,1970,4,West Virginia,435
+WI,1970,9,Wisconsin,435
+WY,1970,1,Wyoming,435
+AL,1980,7,Alabama,435
+AK,1980,1,Alaska,435
+AZ,1980,5,Arizona,435
+AR,1980,4,Arkansas,435
+CA,1980,45,California,435
+CO,1980,6,Colorado,435
+CT,1980,6,Connecticut,435
+DE,1980,1,Delaware,435
+FL,1980,19,Florida,435
+GA,1980,10,Georgia,435
+HI,1980,2,Hawaii,435
+ID,1980,2,Idaho,435
+IL,1980,22,Illinois,435
+IN,1980,10,Indiana,435
+IA,1980,6,Iowa,435
+KS,1980,5,Kansas,435
+KY,1980,7,Kentucky,435
+LA,1980,8,Louisiana,435
+ME,1980,2,Maine,435
+MD,1980,8,Maryland,435
+MA,1980,11,Massachusetts,435
+MI,1980,18,Michigan,435
+MN,1980,8,Minnesota,435
+MS,1980,5,Mississippi,435
+MO,1980,9,Missouri,435
+MT,1980,2,Montana,435
+NE,1980,3,Nebraska,435
+NV,1980,2,Nevada,435
+NH,1980,2,New Hampshire,435
+NJ,1980,14,New Jersey,435
+NM,1980,3,New Mexico,435
+NY,1980,34,New York,435
+NC,1980,11,North Carolina,435
+ND,1980,1,North Dakota,435
+OH,1980,21,Ohio,435
+OK,1980,6,Oklahoma,435
+OR,1980,5,Oregon,435
+PA,1980,23,Pennsylvania,435
+RI,1980,2,Rhode Island,435
+SC,1980,6,South Carolina,435
+SD,1980,1,South Dakota,435
+TN,1980,9,Tennessee,435
+TX,1980,27,Texas,435
+UT,1980,3,Utah,435
+VT,1980,1,Vermont,435
+VA,1980,10,Virginia,435
+WA,1980,8,Washington,435
+WV,1980,4,West Virginia,435
+WI,1980,9,Wisconsin,435
+WY,1980,1,Wyoming,435
+AL,1990,7,Alabama,435
+AK,1990,1,Alaska,435
+AZ,1990,6,Arizona,435
+AR,1990,4,Arkansas,435
+CA,1990,52,California,435
+CO,1990,6,Colorado,435
+CT,1990,6,Connecticut,435
+DE,1990,1,Delaware,435
+FL,1990,23,Florida,435
+GA,1990,11,Georgia,435
+HI,1990,2,Hawaii,435
+ID,1990,2,Idaho,435
+IL,1990,20,Illinois,435
+IN,1990,10,Indiana,435
+IA,1990,5,Iowa,435
+KS,1990,4,Kansas,435
+KY,1990,6,Kentucky,435
+LA,1990,7,Louisiana,435
+ME,1990,2,Maine,435
+MD,1990,8,Maryland,435
+MA,1990,10,Massachusetts,435
+MI,1990,16,Michigan,435
+MN,1990,8,Minnesota,435
+MS,1990,5,Mississippi,435
+MO,1990,9,Missouri,435
+MT,1990,1,Montana,435
+NE,1990,3,Nebraska,435
+NV,1990,2,Nevada,435
+NH,1990,2,New Hampshire,435
+NJ,1990,13,New Jersey,435
+NM,1990,3,New Mexico,435
+NY,1990,31,New York,435
+NC,1990,12,North Carolina,435
+ND,1990,1,North Dakota,435
+OH,1990,19,Ohio,435
+OK,1990,6,Oklahoma,435
+OR,1990,5,Oregon,435
+PA,1990,21,Pennsylvania,435
+RI,1990,2,Rhode Island,435
+SC,1990,6,South Carolina,435
+SD,1990,1,South Dakota,435
+TN,1990,9,Tennessee,435
+TX,1990,30,Texas,435
+UT,1990,3,Utah,435
+VT,1990,1,Vermont,435
+VA,1990,11,Virginia,435
+WA,1990,9,Washington,435
+WV,1990,3,West Virginia,435
+WI,1990,9,Wisconsin,435
+WY,1990,1,Wyoming,435
+AL,2000,7,Alabama,435
+AK,2000,1,Alaska,435
+AZ,2000,8,Arizona,435
+AR,2000,4,Arkansas,435
+CA,2000,53,California,435
+CO,2000,7,Colorado,435
+CT,2000,5,Connecticut,435
+DE,2000,1,Delaware,435
+FL,2000,25,Florida,435
+GA,2000,13,Georgia,435
+HI,2000,2,Hawaii,435
+ID,2000,2,Idaho,435
+IL,2000,19,Illinois,435
+IN,2000,9,Indiana,435
+IA,2000,5,Iowa,435
+KS,2000,4,Kansas,435
+KY,2000,6,Kentucky,435
+LA,2000,7,Louisiana,435
+ME,2000,2,Maine,435
+MD,2000,8,Maryland,435
+MA,2000,10,Massachusetts,435
+MI,2000,15,Michigan,435
+MN,2000,8,Minnesota,435
+MS,2000,4,Mississippi,435
+MO,2000,9,Missouri,435
+MT,2000,1,Montana,435
+NE,2000,3,Nebraska,435
+NV,2000,3,Nevada,435
+NH,2000,2,New Hampshire,435
+NJ,2000,13,New Jersey,435
+NM,2000,3,New Mexico,435
+NY,2000,29,New York,435
+NC,2000,13,North Carolina,435
+ND,2000,1,North Dakota,435
+OH,2000,18,Ohio,435
+OK,2000,5,Oklahoma,435
+OR,2000,5,Oregon,435
+PA,2000,19,Pennsylvania,435
+RI,2000,2,Rhode Island,435
+SC,2000,6,South Carolina,435
+SD,2000,1,South Dakota,435
+TN,2000,9,Tennessee,435
+TX,2000,32,Texas,435
+UT,2000,3,Utah,435
+VT,2000,1,Vermont,435
+VA,2000,11,Virginia,435
+WA,2000,9,Washington,435
+WV,2000,3,West Virginia,435
+WI,2000,8,Wisconsin,435
+WY,2000,1,Wyoming,435
+AL,2010,7,Alabama,435
+AK,2010,1,Alaska,435
+AZ,2010,9,Arizona,435
+AR,2010,4,Arkansas,435
+CA,2010,53,California,435
+CO,2010,7,Colorado,435
+CT,2010,5,Connecticut,435
+DE,2010,1,Delaware,435
+FL,2010,27,Florida,435
+GA,2010,14,Georgia,435
+HI,2010,2,Hawaii,435
+ID,2010,2,Idaho,435
+IL,2010,18,Illinois,435
+IN,2010,9,Indiana,435
+IA,2010,4,Iowa,435
+KS,2010,4,Kansas,435
+KY,2010,6,Kentucky,435
+LA,2010,6,Louisiana,435
+ME,2010,2,Maine,435
+MD,2010,8,Maryland,435
+MA,2010,9,Massachusetts,435
+MI,2010,14,Michigan,435
+MN,2010,8,Minnesota,435
+MS,2010,4,Mississippi,435
+MO,2010,8,Missouri,435
+MT,2010,1,Montana,435
+NE,2010,3,Nebraska,435
+NV,2010,4,Nevada,435
+NH,2010,2,New Hampshire,435
+NJ,2010,12,New Jersey,435
+NM,2010,3,New Mexico,435
+NY,2010,27,New York,435
+NC,2010,13,North Carolina,435
+ND,2010,1,North Dakota,435
+OH,2010,16,Ohio,435
+OK,2010,5,Oklahoma,435
+OR,2010,5,Oregon,435
+PA,2010,18,Pennsylvania,435
+RI,2010,2,Rhode Island,435
+SC,2010,7,South Carolina,435
+SD,2010,1,South Dakota,435
+TN,2010,9,Tennessee,435
+TX,2010,36,Texas,435
+UT,2010,4,Utah,435
+VT,2010,1,Vermont,435
+VA,2010,11,Virginia,435
+WA,2010,10,Washington,435
+WV,2010,3,West Virginia,435
+WI,2010,8,Wisconsin,435
+WY,2010,1,Wyoming,435

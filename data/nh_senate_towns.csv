@@ -1,0 +1,338 @@
+sd_id,category,town
+1,grants,atkinson and gilmanton academy grant
+1,grants,beans grant
+1,grants,cutts grant
+1,grants,dixs grant
+1,grants,greens grant
+1,grants,low and burbanks grant
+1,grants,pinkhams grant
+1,grants,second college grant
+1,locations,ervings location
+1,locations,martins location
+1,locations,wentworth location
+1,purchases,beans purchase
+1,purchases,chandlers purchase
+1,purchases,crawfords purchase
+1,purchases,hadleys purchase
+1,purchases,sargents purchase
+1,purchases,thompson and meserves purchase
+1,towns,bath
+1,towns,benton
+1,towns,bethlehem
+1,towns,carroll
+1,towns,clarksville
+1,towns,colebrook
+1,towns,columbia
+1,towns,dalton
+1,towns,dummer
+1,towns,easton
+1,towns,errol
+1,towns,franconia
+1,towns,gorham
+1,towns,jefferson
+1,towns,lancaster
+1,towns,landaff
+1,towns,lincoln
+1,towns,lisbon
+1,towns,littleton
+1,towns,livermore
+1,towns,lyman
+1,towns,milan
+1,towns,monroe
+1,towns,northumberland
+1,towns,pittsburg
+1,towns,randolph
+1,towns,shelburne
+1,towns,stark
+1,towns,stewartstown
+1,towns,stratford
+1,towns,sugar hill
+1,towns,thornton
+1,towns,whitefield
+1,towns,woodstock
+1,townships,cambridge
+1,townships,dixville
+1,townships,kilkenny
+1,townships,millsfield
+1,townships,odell
+1,townships,success
+1,unincorporated places,bethlehem
+1,unincorporated places,colebrook
+1,unincorporated places,gorham
+1,unincorporated places,groveton
+1,unincorporated places,lancaster
+1,unincorporated places,lincoln
+1,unincorporated places,lisbon
+1,unincorporated places,littleton
+1,unincorporated places,mountain lakes
+1,unincorporated places,north woodstock
+1,unincorporated places,west stewartstown
+1,unincorporated places,whitefield
+2,towns,alexandria
+2,towns,ashland
+2,towns,bridgewater
+2,towns,bristol
+2,towns,campton
+2,towns,center harbor
+2,towns,danbury
+2,towns,dorchester
+2,towns,ellsworth
+2,towns,grafton
+2,towns,groton
+2,towns,haverhill
+2,towns,hebron
+2,towns,hill
+2,towns,holderness
+2,towns,meredith
+2,towns,new hampton
+2,towns,orange
+2,towns,orford
+2,towns,piermont
+2,towns,plymouth
+2,towns,rumney
+2,towns,sanbornton
+2,towns,tilton
+2,towns,warren
+2,towns,wentworth
+2,towns,wilmot
+2,unincorporated places,ashland
+2,unincorporated places,bristol
+2,unincorporated places,meredith
+2,unincorporated places,mountain lakes
+2,unincorporated places,new hampton
+2,unincorporated places,north haverhill
+2,unincorporated places,plymouth
+2,unincorporated places,tilton northfield
+2,unincorporated places,woodsville
+3,location,hale's
+3,towns,albany
+3,towns,bartlett
+3,towns,brookfield
+3,towns,chatham
+3,towns,conway
+3,towns,eaton
+3,towns,effingham
+3,towns,freedom
+3,towns,hart's location
+3,towns,jackson
+3,towns,madison
+3,towns,middleton
+3,towns,milton
+3,towns,moultonborough
+3,towns,ossipee
+3,towns,sandwich
+3,towns,tamworth
+3,towns,tuftonboro
+3,towns,wakefield
+3,towns,waterville valley
+3,towns,wolfeboro
+3,unincorporated places,bartlett
+3,unincorporated places,center ossipee
+3,unincorporated places,center sandwich
+3,unincorporated places,conway
+3,unincorporated places,melvin village
+3,unincorporated places,milton
+3,unincorporated places,milton mills
+3,unincorporated places,north conway
+3,unincorporated places,sanbornville
+3,unincorporated places,suissevale
+3,unincorporated places,union
+3,unincorporated places,wolfeboro
+4,cities,dover
+4,cities,somersworth
+4,towns,barrington
+4,towns,rollinsford
+5,cities,claremont
+5,cities,lebanon
+5,towns,canaan
+5,towns,charlestown
+5,towns,cornish
+5,towns,enfield
+5,towns,hanover
+5,towns,lyme
+5,towns,plainfield
+5,unincorporated places,canaan
+5,unincorporated places,charlestown
+5,unincorporated places,enfield
+5,unincorporated places,hanover
+5,unincorporated places,plainfield
+6,towns,alton
+6,towns,barnstead
+6,towns,farmington
+6,towns,gilmanton
+6,towns,new durham
+6,unincorporated places,alton
+6,unincorporated places,farmington
+7,cities,franklin
+7,cities,laconia
+7,towns,andover
+7,towns,belmont
+7,towns,boscawen
+7,towns,canterbury
+7,towns,gilford
+7,towns,northfield
+7,towns,salisbury
+7,towns,webster
+7,unincorporated places,belmont
+7,unincorporated places,tilton northfield
+8,towns,acworth
+8,towns,antrim
+8,towns,bennington
+8,towns,bradford
+8,towns,croydon
+8,towns,deering
+8,towns,francestown
+8,towns,goshen
+8,towns,grantham
+8,towns,hillsborough
+8,towns,langdon
+8,towns,lempster
+8,towns,marlow
+8,towns,new london
+8,towns,newbury
+8,towns,newport
+8,towns,springfield
+8,towns,stoddard
+8,towns,sunapee
+8,towns,sutton
+8,towns,unity
+8,towns,washington
+8,towns,weare
+8,towns,windsor
+8,unincorporated places,antrim
+8,unincorporated places,bennington
+8,unincorporated places,blodgett landing
+8,unincorporated places,bradford
+8,unincorporated places,hillsborough
+8,unincorporated places,new london
+8,unincorporated places,newport
+9,towns,bedford
+9,towns,dublin
+9,towns,fitzwilliam
+9,towns,greenfield
+9,towns,hancock
+9,towns,jaffrey
+9,towns,lyndeborough
+9,towns,mont vernon
+9,towns,new boston
+9,towns,peterborough
+9,towns,richmond
+9,towns,sharon
+9,towns,temple
+9,towns,troy
+9,unincorporated places,hancock
+9,unincorporated places,jaffrey
+9,unincorporated places,peterborough
+9,unincorporated places,troy
+10,towns,alstead
+10,towns,chesterfield
+10,towns,gilsum
+10,towns,harrisville
+10,towns,hinsdale
+10,towns,marlborough
+10,towns,nelson
+10,towns,roxbury
+10,towns,sullivan
+10,towns,surry
+10,towns,swanzey
+10,towns,walpole
+10,towns,westmoreland
+10,towns,winchester
+10,unincorporated places,hinsdale
+10,unincorporated places,marlborough
+10,unincorporated places,north walpole
+10,unincorporated places,walpole
+10,unincorporated places,west swanzey
+10,unincorporated places,winchester
+11,towns,amherst
+11,towns,merrimack
+11,towns,milford
+11,towns,wilton
+11,unincorporated places,amherst
+11,unincorporated places,east merrimack
+11,unincorporated places,milford
+11,unincorporated places,wilton
+12,towns,brookline
+12,towns,greenville
+12,towns,hollis
+12,towns,mason
+12,towns,new ipswich
+12,towns,rindge
+14,towns,auburn
+14,towns,hudson
+14,towns,londonderry
+14,unincorporated places,hudson
+14,unincorporated places,londonderry
+14,unincorporated places,south hooksett
+15,towns,henniker
+15,towns,hopkinton
+15,towns,warner
+15,unincorporated places,contoocook
+15,unincorporated places,henniker
+15,unincorporated places,warner
+16,towns,bow
+16,towns,candia
+16,towns,dunbarton
+16,towns,hooksett
+16,unincorporated places,hooksett
+16,unincorporated places,south hooksett
+17,towns,allenstown
+17,towns,chichester
+17,towns,deerfield
+17,towns,epsom
+17,towns,loudon
+17,towns,northwood
+17,towns,nottingham
+17,towns,pembroke
+17,towns,pittsfield
+17,towns,raymond
+17,towns,strafford
+17,unincorporated places,loudon
+17,unincorporated places,pittsfield
+17,unincorporated places,raymond
+17,unincorporated places,suncook
+18,town,litchfield
+19,towns,derry
+19,towns,hampstead
+19,towns,windham
+20,town,goffstown
+20,unincorporated places,goffstown
+20,unincorporated places,pinardville
+21,towns,durham
+21,towns,lee
+21,towns,madbury
+21,towns,newfields
+21,towns,newington
+21,towns,newmarket
+21,unincorporated places,durham
+21,unincorporated places,newfields
+21,unincorporated places,newmarket
+22,towns,atkinson
+22,towns,pelham
+22,towns,plaistow
+22,towns,salem
+23,towns,brentwood
+23,towns,chester
+23,towns,danville
+23,towns,east kingston
+23,towns,epping
+23,towns,exeter
+23,towns,fremont
+23,towns,kingston
+23,towns,sandown
+23,unincorporated places,epping
+23,unincorporated places,exeter
+24,towns,greenland
+24,towns,hampton
+24,towns,hampton falls
+24,towns,kensington
+24,towns,new castle
+24,towns,newton
+24,towns,north hampton
+24,towns,rye
+24,towns,seabrook
+24,towns,south hampton
+24,towns,stratham
+24,unincorporated places,hampton
+24,unincorporated places,hampton beach
+24,unincorporated places,seabrook beach

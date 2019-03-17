@@ -1,0 +1,802 @@
+county_id,district_num,rep_name,party,municipality,county_name,district
+1,01,harry viens,rep,center harbor,belknap,belknap-01
+1,01,harry viens,rep,new hampton,belknap,belknap-01
+1,02,glen aldrich,rep,gilford,belknap,belknap-02
+1,02,glen aldrich,rep,meredith,belknap,belknap-02
+1,02,harry bean,rep,gilford,belknap,belknap-02
+1,02,harry bean,rep,meredith,belknap,belknap-02
+1,02,deanna jurius,rep,gilford,belknap,belknap-02
+1,02,deanna jurius,rep,meredith,belknap,belknap-02
+1,02,jonathan mackie,rep,gilford,belknap,belknap-02
+1,02,jonathan mackie,rep,meredith,belknap,belknap-02
+1,03,david huot,dem,laconia,belknap,belknap-03
+1,03,richard beaudoin,rep,laconia,belknap,belknap-03
+1,03,peter spanos,rep,laconia,belknap,belknap-03
+1,03,frank tilton,rep,laconia,belknap,belknap-03
+1,04,dennis fields,rep,sanbornton,belknap,belknap-04
+1,04,dennis fields,rep,tilton,belknap,belknap-04
+1,04,timothy lang sr.,rep,sanbornton,belknap,belknap-04
+1,04,timothy lang sr.,rep,tilton,belknap,belknap-04
+1,05,george feeney,rep,gilmanton,belknap,belknap-05
+1,05,george feeney,rep,alton,belknap,belknap-05
+1,05,peter varney,rep,gilmanton,belknap,belknap-05
+1,05,peter varney,rep,alton,belknap,belknap-05
+1,06,john plumer,rep,belmont,belknap,belknap-06
+1,06,mike sylvia,rep,belmont,belknap,belknap-06
+1,07,barbara comtois,rep,barnstead,belknap,belknap-07
+1,08,raymond howard jr.,rep,alton,belknap,belknap-08
+1,08,raymond howard jr.,rep,barnstead,belknap,belknap-08
+1,08,raymond howard jr.,rep,gilmanton,belknap,belknap-08
+1,09,charlie st. clair,dem,belmont,belknap,belknap-09
+1,09,charlie st. clair,dem,laconia,belknap,belknap-09
+2,01,anita burroughs,dem,bartlett,carroll,carroll-01
+2,01,anita burroughs,dem,harts location,carroll,carroll-01
+2,01,anita burroughs,dem,jackson,carroll,carroll-01
+2,02,tom buco,dem,chatham,carroll,carroll-02
+2,02,tom buco,dem,conway,carroll,carroll-02
+2,02,tom buco,dem,eaton,carroll,carroll-02
+2,02,tom buco,dem,hales location,carroll,carroll-02
+2,02,harrison kanzler,dem,chatham,carroll,carroll-02
+2,02,harrison kanzler,dem,conway,carroll,carroll-02
+2,02,harrison kanzler,dem,eaton,carroll,carroll-02
+2,02,harrison kanzler,dem,hales location,carroll,carroll-02
+2,02,stephen woodcock,dem,chatham,carroll,carroll-02
+2,02,stephen woodcock,dem,conway,carroll,carroll-02
+2,02,stephen woodcock,dem,eaton,carroll,carroll-02
+2,02,stephen woodcock,dem,hales location,carroll,carroll-02
+2,03,jerry knirk,dem,albany,carroll,carroll-03
+2,03,jerry knirk,dem,freedom,carroll,carroll-03
+2,03,jerry knirk,dem,madison,carroll,carroll-03
+2,03,jerry knirk,dem,tamworth,carroll,carroll-03
+2,03,susan ticehurst,dem,albany,carroll,carroll-03
+2,03,susan ticehurst,dem,freedom,carroll,carroll-03
+2,03,susan ticehurst,dem,madison,carroll,carroll-03
+2,03,susan ticehurst,dem,tamworth,carroll,carroll-03
+2,04,glenn cordelli,rep,moultonborough,carroll,carroll-04
+2,04,glenn cordelli,rep,sandwich,carroll,carroll-04
+2,04,glenn cordelli,rep,tuftonboro,carroll,carroll-04
+2,04,karel crawford,rep,moultonborough,carroll,carroll-04
+2,04,karel crawford,rep,sandwich,carroll,carroll-04
+2,04,karel crawford,rep,tuftonboro,carroll,carroll-04
+2,05,lino avellani,rep,brookfield,carroll,carroll-05
+2,05,lino avellani,rep,effingham,carroll,carroll-05
+2,05,lino avellani,rep,ossipee,carroll,carroll-05
+2,05,lino avellani,rep,wakefield,carroll,carroll-05
+2,05,ed comeau,rep,brookfield,carroll,carroll-05
+2,05,ed comeau,rep,effingham,carroll,carroll-05
+2,05,ed comeau,rep,ossipee,carroll,carroll-05
+2,05,ed comeau,rep,wakefield,carroll,carroll-05
+2,05,bill nelson,rep,brookfield,carroll,carroll-05
+2,05,bill nelson,rep,effingham,carroll,carroll-05
+2,05,bill nelson,rep,ossipee,carroll,carroll-05
+2,05,bill nelson,rep,wakefield,carroll,carroll-05
+2,06,edith desmarais,dem,wolfeboro,carroll,carroll-06
+2,06,john macdonald,rep,wolfeboro,carroll,carroll-06
+2,07,ed butler,dem,albany,carroll,carroll-07
+2,07,ed butler,dem,bartlett,carroll,carroll-07
+2,07,ed butler,dem,chatham,carroll,carroll-07
+2,07,ed butler,dem,conway,carroll,carroll-07
+2,07,ed butler,dem,eaton,carroll,carroll-07
+2,07,ed butler,dem,freedom,carroll,carroll-07
+2,07,ed butler,dem,hales location,carroll,carroll-07
+2,07,ed butler,dem,harts location,carroll,carroll-07
+2,07,ed butler,dem,jackson,carroll,carroll-07
+2,07,ed butler,dem,madison,carroll,carroll-07
+2,07,ed butler,dem,tamworth,carroll,carroll-07
+2,08,william marsh,rep,brookfield,carroll,carroll-08
+2,08,william marsh,rep,effingham,carroll,carroll-08
+2,08,william marsh,rep,moultonborough,carroll,carroll-08
+2,08,william marsh,rep,ossipee,carroll,carroll-08
+2,08,william marsh,rep,sandwich,carroll,carroll-08
+2,08,william marsh,rep,tuftonboro,carroll,carroll-08
+2,08,william marsh,rep,wakefield,carroll,carroll-08
+3,01,michael abbott,dem,chesterfield,cheshire,cheshire-01
+3,01,michael abbott,dem,hinsdale,cheshire,cheshire-01
+3,01,michael abbott,dem,walpole,cheshire,cheshire-01
+3,01,michael abbott,dem,westmoreland,cheshire,cheshire-01
+3,01,paul berch,dem,chesterfield,cheshire,cheshire-01
+3,01,paul berch,dem,hinsdale,cheshire,cheshire-01
+3,01,paul berch,dem,walpole,cheshire,cheshire-01
+3,01,paul berch,dem,westmoreland,cheshire,cheshire-01
+3,01,cathryn harvey,dem,chesterfield,cheshire,cheshire-01
+3,01,cathryn harvey,dem,hinsdale,cheshire,cheshire-01
+3,01,cathryn harvey,dem,walpole,cheshire,cheshire-01
+3,01,cathryn harvey,dem,westmoreland,cheshire,cheshire-01
+3,01,lucy weber,dem,chesterfield,cheshire,cheshire-01
+3,01,lucy weber,dem,hinsdale,cheshire,cheshire-01
+3,01,lucy weber,dem,walpole,cheshire,cheshire-01
+3,01,lucy weber,dem,westmoreland,cheshire,cheshire-01
+3,02,john mann,dem,alstead,cheshire,cheshire-02
+3,02,john mann,dem,marlow,cheshire,cheshire-02
+3,02,john mann,dem,surry,cheshire,cheshire-02
+3,03,daniel adams eaton,dem,gilsum,cheshire,cheshire-03
+3,03,daniel adams eaton,dem,nelson,cheshire,cheshire-03
+3,03,daniel adams eaton,dem,stoddard,cheshire,cheshire-03
+3,03,daniel adams eaton,dem,sullivan,cheshire,cheshire-03
+3,04,david morrill,dem,keene,cheshire,cheshire-04
+3,05,john bordenet,dem,keene,cheshire,cheshire-05
+3,06,david meader,dem,keene,cheshire,cheshire-06
+3,07,spark von plinsky,dem,keene,cheshire,cheshire-07
+3,08,donovan fenton,dem,keene,cheshire,cheshire-08
+3,09,dick ames,dem,dublin,cheshire,cheshire-09
+3,09,dick ames,dem,harrisville,cheshire,cheshire-09
+3,09,dick ames,dem,jaffrey,cheshire,cheshire-09
+3,09,dick ames,dem,roxbury,cheshire,cheshire-09
+3,09,douglas ley,dem,dublin,cheshire,cheshire-09
+3,09,douglas ley,dem,harrisville,cheshire,cheshire-09
+3,09,douglas ley,dem,jaffrey,cheshire,cheshire-09
+3,09,douglas ley,dem,roxbury,cheshire,cheshire-09
+3,10,sandy swinburne,dem,marlborough,cheshire,cheshire-10
+3,10,sandy swinburne,dem,troy,cheshire,cheshire-10
+3,11,john b. hunt,rep,fitzwilliam,cheshire,cheshire-11
+3,11,john b. hunt,rep,rindge,cheshire,cheshire-11
+3,11,john o'day,rep,fitzwilliam,cheshire,cheshire-11
+3,11,john o'day,rep,rindge,cheshire,cheshire-11
+3,12,barry faulkner,dem,richmond,cheshire,cheshire-12
+3,12,barry faulkner,dem,swanzey,cheshire,cheshire-12
+3,12,jennie gomarlo,dem,richmond,cheshire,cheshire-12
+3,12,jennie gomarlo,dem,swanzey,cheshire,cheshire-12
+3,13,henry parkhurst,dem,winchester,cheshire,cheshire-13
+3,14,craig thompson,dem,dublin,cheshire,cheshire-14
+3,14,craig thompson,dem,fitzwilliam,cheshire,cheshire-14
+3,14,craig thompson,dem,harrisville,cheshire,cheshire-14
+3,14,craig thompson,dem,jaffrey,cheshire,cheshire-14
+3,14,craig thompson,dem,rindge,cheshire,cheshire-14
+3,14,craig thompson,dem,roxbury,cheshire,cheshire-14
+3,15,bruce tatro,dem,marlborough,cheshire,cheshire-15
+3,15,bruce tatro,dem,richmond,cheshire,cheshire-15
+3,15,bruce tatro,dem,swanzey,cheshire,cheshire-15
+3,15,bruce tatro,dem,troy,cheshire,cheshire-15
+3,15,bruce tatro,dem,winchester,cheshire,cheshire-15
+3,16,william pearson,dem,keene,cheshire,cheshire-16
+3,16,joe schapiro,dem,keene,cheshire,cheshire-16
+4,01,john fothergill,rep,cambridge,coos,coos-01
+4,01,john fothergill,rep,clarksville,coos,coos-01
+4,01,john fothergill,rep,colebrook,coos,coos-01
+4,01,john fothergill,rep,columbia,coos,coos-01
+4,01,john fothergill,rep,dixs grant,coos,coos-01
+4,01,john fothergill,rep,dixville,coos,coos-01
+4,01,john fothergill,rep,errol,coos,coos-01
+4,01,john fothergill,rep,ervings location,coos,coos-01
+4,01,john fothergill,rep,millsfield,coos,coos-01
+4,01,john fothergill,rep,odell,coos,coos-01
+4,01,john fothergill,rep,pittsburg,coos,coos-01
+4,01,john fothergill,rep,stewartstown,coos,coos-01
+4,01,john fothergill,rep,stratford,coos,coos-01
+4,01,john fothergill,rep,wentworths location,coos,coos-01
+4,01,michael furbush,rep,cambridge,coos,coos-01
+4,01,michael furbush,rep,clarksville,coos,coos-01
+4,01,michael furbush,rep,colebrook,coos,coos-01
+4,01,michael furbush,rep,columbia,coos,coos-01
+4,01,michael furbush,rep,dixs grant,coos,coos-01
+4,01,michael furbush,rep,dixville,coos,coos-01
+4,01,michael furbush,rep,errol,coos,coos-01
+4,01,michael furbush,rep,ervings location,coos,coos-01
+4,01,michael furbush,rep,millsfield,coos,coos-01
+4,01,michael furbush,rep,odell,coos,coos-01
+4,01,michael furbush,rep,pittsburg,coos,coos-01
+4,01,michael furbush,rep,stewartstown,coos,coos-01
+4,01,michael furbush,rep,stratford,coos,coos-01
+4,01,michael furbush,rep,wentworths location,coos,coos-01
+4,02,wayne moynihan,dem,dummer,coos,coos-02
+4,02,wayne moynihan,dem,milan,coos,coos-02
+4,02,wayne moynihan,dem,northumberland,coos,coos-02
+4,02,wayne moynihan,dem,stark,coos,coos-02
+4,03,larry laflamme,dem,berlin,coos,coos-03
+4,03,henry noel,dem,berlin,coos,coos-03
+4,03,yvonne thomas,dem,berlin,coos,coos-03
+4,04,kevin craig,rep,dalton,coos,coos-04
+4,04,kevin craig,rep,kilkenny,coos,coos-04
+4,04,kevin craig,rep,lancaster,coos,coos-04
+4,05,edith tucker,dem,carroll,coos,coos-05
+4,05,edith tucker,dem,jefferson,coos,coos-05
+4,05,edith tucker,dem,randolph,coos,coos-05
+4,05,edith tucker,dem,whitefield,coos,coos-05
+4,06,william hatch,dem,chandlers purchase,coos,coos-06
+4,06,william hatch,dem,gorham,coos,coos-06
+4,06,william hatch,dem,greens grant,coos,coos-06
+4,06,william hatch,dem,pinkhams grant,coos,coos-06
+4,06,william hatch,dem,sargents purchase,coos,coos-06
+4,06,william hatch,dem,shelburne,coos,coos-06
+4,06,william hatch,dem,success,coos,coos-06
+4,07,troy merner,rep,carroll,coos,coos-07
+4,07,troy merner,rep,dalton,coos,coos-07
+4,07,troy merner,rep,dummer,coos,coos-07
+4,07,troy merner,rep,jefferson,coos,coos-07
+4,07,troy merner,rep,kilkenny,coos,coos-07
+4,07,troy merner,rep,lancaster,coos,coos-07
+4,07,troy merner,rep,milan,coos,coos-07
+4,07,troy merner,rep,northumberland,coos,coos-07
+4,07,troy merner,rep,randolph,coos,coos-07
+4,07,troy merner,rep,stark,coos,coos-07
+4,07,troy merner,rep,whitefield,coos,coos-07
+5,01,erin tapper hennessey,rep,bethlehem,grafton,grafton-01
+5,01,erin tapper hennessey,rep,littleton,grafton,grafton-01
+5,01,linda massimilla,dem,bethlehem,grafton,grafton-01
+5,01,linda massimilla,dem,littleton,grafton,grafton-01
+5,02,tim egan,dem,franconia,grafton,grafton-02
+5,02,tim egan,dem,lisbon,grafton,grafton-02
+5,02,tim egan,dem,lyman,grafton,grafton-02
+5,02,tim egan,dem,monroe,grafton,grafton-02
+5,02,tim egan,dem,sugar hill,grafton,grafton-02
+5,03,susan m. ford,dem,bath,grafton,grafton-03
+5,03,susan m. ford,dem,benton,grafton,grafton-03
+5,03,susan m. ford,dem,easton,grafton,grafton-03
+5,03,susan m. ford,dem,landaff,grafton,grafton-03
+5,03,susan m. ford,dem,orford,grafton,grafton-03
+5,03,susan m. ford,dem,piermont,grafton,grafton-03
+5,03,susan m. ford,dem,warren,grafton,grafton-03
+5,04,rick ladd,rep,haverhill,grafton,grafton-04
+5,05,jerry stringham,dem,lincoln,grafton,grafton-05
+5,05,jerry stringham,dem,livermore,grafton,grafton-05
+5,05,jerry stringham,dem,waterville valley,grafton,grafton-05
+5,05,jerry stringham,dem,woodstock,grafton,grafton-05
+5,06,kevin maes,dem,ellsworth,grafton,grafton-06
+5,06,kevin maes,dem,groton,grafton,grafton-06
+5,06,kevin maes,dem,orange,grafton,grafton-06
+5,06,kevin maes,dem,rumney,grafton,grafton-06
+5,06,kevin maes,dem,thornton,grafton,grafton-06
+5,07,richard osborne,dem,campton,grafton,grafton-07
+5,08,sallie fellows,dem,hebron,grafton,grafton-08
+5,08,sallie fellows,dem,holderness,grafton,grafton-08
+5,08,sallie fellows,dem,plymouth,grafton,grafton-08
+5,08,suzanne smith,dem,hebron,grafton,grafton-08
+5,08,suzanne smith,dem,holderness,grafton,grafton-08
+5,08,suzanne smith,dem,plymouth,grafton,grafton-08
+5,08,joyce weston,dem,hebron,grafton,grafton-08
+5,08,joyce weston,dem,holderness,grafton,grafton-08
+5,08,joyce weston,dem,plymouth,grafton,grafton-08
+5,09,ned gordon,rep,alexandria,grafton,grafton-09
+5,09,ned gordon,rep,ashland,grafton,grafton-09
+5,09,ned gordon,rep,bridgewater,grafton,grafton-09
+5,09,ned gordon,rep,bristol,grafton,grafton-09
+5,09,ned gordon,rep,grafton,grafton,grafton-09
+5,09,vincent migliore,rep,alexandria,grafton,grafton-09
+5,09,vincent migliore,rep,ashland,grafton,grafton-09
+5,09,vincent migliore,rep,bridgewater,grafton,grafton-09
+5,09,vincent migliore,rep,bristol,grafton,grafton-09
+5,09,vincent migliore,rep,grafton,grafton,grafton-09
+5,10,roger dontonville,dem,enfield,grafton,grafton-10
+5,11,timothy josephson,dem,canaan,grafton,grafton-11
+5,11,timothy josephson,dem,dorchester,grafton,grafton-11
+5,11,timothy josephson,dem,wentworth,grafton,grafton-11
+5,12,polly campion,dem,hanover,grafton,grafton-12
+5,12,polly campion,dem,lyme,grafton,grafton-12
+5,12,mary jane mulligan,dem,hanover,grafton,grafton-12
+5,12,mary jane mulligan,dem,lyme,grafton,grafton-12
+5,12,garrett muscatel,dem,hanover,grafton,grafton-12
+5,12,garrett muscatel,dem,lyme,grafton,grafton-12
+5,12,sharon nordgren,dem,hanover,grafton,grafton-12
+5,12,sharon nordgren,dem,lyme,grafton,grafton-12
+5,13,richard abel,dem,lebanon,grafton,grafton-13
+5,13,susan almy,dem,lebanon,grafton,grafton-13
+5,13,laurel stavis,dem,lebanon,grafton,grafton-13
+5,13,george sykes,dem,lebanon,grafton,grafton-13
+5,14,elaine french,dem,bethlehem,grafton,grafton-14
+5,14,elaine french,dem,franconia,grafton,grafton-14
+5,14,elaine french,dem,lisbon,grafton,grafton-14
+5,14,elaine french,dem,littleton,grafton,grafton-14
+5,14,elaine french,dem,lyman,grafton,grafton-14
+5,14,elaine french,dem,monroe,grafton,grafton-14
+5,14,elaine french,dem,sugar hill,grafton,grafton-14
+5,15,denny ruprecht,dem,bath,grafton,grafton-15
+5,15,denny ruprecht,dem,benton,grafton,grafton-15
+5,15,denny ruprecht,dem,easton,grafton,grafton-15
+5,15,denny ruprecht,dem,haverhill,grafton,grafton-15
+5,15,denny ruprecht,dem,landaff,grafton,grafton-15
+5,15,denny ruprecht,dem,orford,grafton,grafton-15
+5,15,denny ruprecht,dem,piermont,grafton,grafton-15
+5,15,denny ruprecht,dem,warren,grafton,grafton-15
+5,16,francesca diggs,dem,canaan,grafton,grafton-16
+5,16,francesca diggs,dem,dorchester,grafton,grafton-16
+5,16,francesca diggs,dem,ellsworth,grafton,grafton-16
+5,16,francesca diggs,dem,groton,grafton,grafton-16
+5,16,francesca diggs,dem,orange,grafton,grafton-16
+5,16,francesca diggs,dem,rumney,grafton,grafton-16
+5,16,francesca diggs,dem,thornton,grafton,grafton-16
+5,16,francesca diggs,dem,wentworth,grafton,grafton-16
+5,17,joshua adjutant,dem,alexandria,grafton,grafton-17
+5,17,joshua adjutant,dem,ashland,grafton,grafton-17
+5,17,joshua adjutant,dem,bridgewater,grafton,grafton-17
+5,17,joshua adjutant,dem,bristol,grafton,grafton-17
+5,17,joshua adjutant,dem,enfield,grafton,grafton-17
+5,17,joshua adjutant,dem,grafton,grafton,grafton-17
+6,01,jim fedolfi,rep,antrim,hillsborough,hillsborough-01
+6,01,jim fedolfi,rep,hillsborough,hillsborough,hillsborough-01
+6,01,jim fedolfi,rep,windsor,hillsborough,hillsborough-01
+6,01,marjorie porter,dem,antrim,hillsborough,hillsborough-01
+6,01,marjorie porter,dem,hillsborough,hillsborough,hillsborough-01
+6,01,marjorie porter,dem,windsor,hillsborough,hillsborough-01
+6,02,keith erf,rep,deering,hillsborough,hillsborough-02
+6,02,keith erf,rep,weare,hillsborough,hillsborough-02
+6,02,gary hopper,rep,deering,hillsborough,hillsborough-02
+6,02,gary hopper,rep,weare,hillsborough,hillsborough-02
+6,02,jp marzullo,rep,deering,hillsborough,hillsborough-02
+6,02,jp marzullo,rep,weare,hillsborough,hillsborough-02
+6,03,dan pickering,dem,bennington,hillsborough,hillsborough-03
+6,03,dan pickering,dem,greenfield,hillsborough,hillsborough-03
+6,03,dan pickering,dem,hancock,hillsborough,hillsborough-03
+6,04,jennifer bernet,dem,francestown,hillsborough,hillsborough-04
+6,04,jennifer bernet,dem,greenville,hillsborough,hillsborough-04
+6,04,jennifer bernet,dem,lyndeborough,hillsborough,hillsborough-04
+6,04,jennifer bernet,dem,wilton,hillsborough,hillsborough-04
+6,04,kermit williams,dem,francestown,hillsborough,hillsborough-04
+6,04,kermit williams,dem,greenville,hillsborough,hillsborough-04
+6,04,kermit williams,dem,lyndeborough,hillsborough,hillsborough-04
+6,04,kermit williams,dem,wilton,hillsborough,hillsborough-04
+6,05,donna mombourquette,dem,mont vernon,hillsborough,hillsborough-05
+6,05,donna mombourquette,dem,new boston,hillsborough,hillsborough-05
+6,05,david woodbury,dem,mont vernon,hillsborough,hillsborough-05
+6,05,david woodbury,dem,new boston,hillsborough,hillsborough-05
+6,06,joe alexander jr.,rep,goffstown,hillsborough,hillsborough-06
+6,06,barbara griffin,rep,goffstown,hillsborough,hillsborough-06
+6,06,michael gunski,rep,goffstown,hillsborough,hillsborough-06
+6,06,fred plett,rep,goffstown,hillsborough,hillsborough-06
+6,06,cole riel,dem,goffstown,hillsborough,hillsborough-06
+6,07,linda rae camarotta,rep,bedford,hillsborough,hillsborough-07
+6,07,david danielson,rep,bedford,hillsborough,hillsborough-07
+6,07,linda gould,rep,bedford,hillsborough,hillsborough-07
+6,07,john graham,rep,bedford,hillsborough,hillsborough-07
+6,07,sue mullen,dem,bedford,hillsborough,hillsborough-07
+6,07,michael trento,rep,bedford,hillsborough,hillsborough-07
+6,08,jeff goley,dem,manchester,hillsborough,hillsborough-08
+6,08,diane langley,dem,manchester,hillsborough,hillsborough-08
+6,09,linda disilvestro,dem,manchester,hillsborough,hillsborough-09
+6,09,iz piedra,dem,manchester,hillsborough,hillsborough-09
+6,10,jean jeudy,dem,manchester,hillsborough,hillsborough-10
+6,10,pat long,dem,manchester,hillsborough,hillsborough-10
+6,11,donald bouchard,dem,manchester,hillsborough,hillsborough-11
+6,11,nicole klein,dem,manchester,hillsborough,hillsborough-11
+6,12,amanda bouldin,dem,manchester,hillsborough,hillsborough-12
+6,12,andrew boudlin,dem,manchester,hillsborough,hillsborough-12
+6,13,kathy desjardin,dem,manchester,hillsborough,hillsborough-13
+6,13,larry gagne,rep,manchester,hillsborough,hillsborough-13
+6,14,mary freitas,dem,manchester,hillsborough,hillsborough-14
+6,14,mary heath,dem,manchester,hillsborough,hillsborough-14
+6,15,erika connors,dem,manchester,hillsborough,hillsborough-15
+6,15,mark warden,rep,manchester,hillsborough,hillsborough-15
+6,16,joshua query,dem,manchester,hillsborough,hillsborough-16
+6,16,barbara shaw,dem,manchester,hillsborough,hillsborough-16
+6,17,heidi hamer,dem,manchester,hillsborough,hillsborough-17
+6,17,timothy smith,dem,manchester,hillsborough,hillsborough-17
+6,18,patricia cornell,dem,manchester,hillsborough,hillsborough-18
+6,18,willis griffith,dem,manchester,hillsborough,hillsborough-18
+6,19,bob backus,dem,manchester,hillsborough,hillsborough-19
+6,19,kendall snow,dem,manchester,hillsborough,hillsborough-19
+6,20,ralph boehm,rep,litchfield,hillsborough,hillsborough-20
+6,20,rich lascelles,rep,litchfield,hillsborough,hillsborough-20
+6,21,dick barry,rep,merrimack,hillsborough,hillsborough-21
+6,21,dick hinch,rep,merrimack,hillsborough,hillsborough-21
+6,21,bob l'heureux,rep,merrimack,hillsborough,hillsborough-21
+6,21,nancy murphy,dem,merrimack,hillsborough,hillsborough-21
+6,21,jeanine notter,rep,merrimack,hillsborough,hillsborough-21
+6,21,rosemarie rung,dem,merrimack,hillsborough,hillsborough-21
+6,21,kathryn stack,dem,merrimack,hillsborough,hillsborough-21
+6,21,wendy thomas,dem,merrimack,hillsborough,hillsborough-21
+6,22,megan murray,dem,amherst,hillsborough,hillsborough-22
+6,22,reed panasiti,rep,amherst,hillsborough,hillsborough-22
+6,22,julie radhakrishnan,dem,amherst,hillsborough,hillsborough-22
+6,23,charlie burns,rep,milford,hillsborough,hillsborough-23
+6,23,paul dargie,dem,milford,hillsborough,hillsborough-23
+6,23,joelle martin,dem,milford,hillsborough,hillsborough-23
+6,23,peter petrigno,dem,milford,hillsborough,hillsborough-23
+6,24,peter leishman,dem,peterborough,hillsborough,hillsborough-24
+6,24,ivy vann,dem,peterborough,hillsborough,hillsborough-24
+6,25,tim merlino,rep,new ipswich,hillsborough,hillsborough-25
+6,25,tim merlino,rep,sharon,hillsborough,hillsborough-25
+6,25,tim merlino,rep,temple,hillsborough,hillsborough-25
+6,25,paul somero,rep,new ipswich,hillsborough,hillsborough-25
+6,25,paul somero,rep,sharon,hillsborough,hillsborough-25
+6,25,paul somero,rep,temple,hillsborough,hillsborough-25
+6,26,jack flanagan,rep,brookline,hillsborough,hillsborough-26
+6,26,jack flanagan,rep,mason,hillsborough,hillsborough-26
+6,26,brett hall,dem,brookline,hillsborough,hillsborough-26
+6,26,brett hall,dem,mason,hillsborough,hillsborough-26
+6,27,jim belanger,rep,hollis,hillsborough,hillsborough-27
+6,27,michelle st. john,dem,hollis,hillsborough,hillsborough-27
+6,28,william bordy,dem,nashua,hillsborough,hillsborough-28
+6,28,bruce cohen,dem,nashua,hillsborough,hillsborough-28
+6,28,jan schmidt,dem,nashua,hillsborough,hillsborough-28
+6,29,paul bergeron,d+r↓,nashua,hillsborough,hillsborough-29
+6,29,ray newman,dem,nashua,hillsborough,hillsborough-29
+6,29,sue newman,dem,nashua,hillsborough,hillsborough-29
+6,30,sherry dutzy,dem,nashua,hillsborough,hillsborough-30
+6,30,patricia klee,dem,nashua,hillsborough,hillsborough-30
+6,30,suzanne vail,dem,nashua,hillsborough,hillsborough-30
+6,31,david cote,dem,nashua,hillsborough,hillsborough-31
+6,31,fred davis jr.,dem,nashua,hillsborough,hillsborough-31
+6,31,manny espitia,dem,nashua,hillsborough,hillsborough-31
+6,32,allison nutting-wong,dem,nashua,hillsborough,hillsborough-32
+6,32,michael pedersen,dem,nashua,hillsborough,hillsborough-32
+6,32,dan toomey,dem,nashua,hillsborough,hillsborough-32
+6,33,ken n. gidge,dem,nashua,hillsborough,hillsborough-33
+6,33,mark king,dem,nashua,hillsborough,hillsborough-33
+6,33,fran nutter-upham,dem,nashua,hillsborough,hillsborough-33
+6,34,greg indrunk,dem,nashua,hillsborough,hillsborough-34
+6,34,catherine sofikitis,dem,nashua,hillsborough,hillsborough-34
+6,34,deb stevens,dem,nashua,hillsborough,hillsborough-34
+6,35,skip cleaver,dem,nashua,hillsborough,hillsborough-35
+6,35,latha mangipudi,dem,nashua,hillsborough,hillsborough-35
+6,35,laura damphousse telerski,dem,nashua,hillsborough,hillsborough-35
+6,36,linda harriott-gathright,dem,nashua,hillsborough,hillsborough-36
+6,36,marty jack,dem,nashua,hillsborough,hillsborough-36
+6,36,michael o'brien,dem,nashua,hillsborough,hillsborough-36
+6,37,bob greene,rep,hudson,hillsborough,hillsborough-37
+6,37,bob greene,rep,pelham,hillsborough,hillsborough-37
+6,37,alicia lekas,rep,hudson,hillsborough,hillsborough-37
+6,37,alicia lekas,rep,pelham,hillsborough,hillsborough-37
+6,37,tony lekas,rep,hudson,hillsborough,hillsborough-37
+6,37,tony lekas,rep,pelham,hillsborough,hillsborough-37
+6,37,hershel nunez,rep,hudson,hillsborough,hillsborough-37
+6,37,hershel nunez,rep,pelham,hillsborough,hillsborough-37
+6,37,lynne ober,rep,hudson,hillsborough,hillsborough-37
+6,37,lynne ober,rep,pelham,hillsborough,hillsborough-37
+6,37,russell ober,rep,hudson,hillsborough,hillsborough-37
+6,37,russell ober,rep,pelham,hillsborough,hillsborough-37
+6,37,andrew prout,rep,hudson,hillsborough,hillsborough-37
+6,37,andrew prout,rep,pelham,hillsborough,hillsborough-37
+6,37,andrew renzullo,rep,hudson,hillsborough,hillsborough-37
+6,37,andrew renzullo,rep,pelham,hillsborough,hillsborough-37
+6,37,kim rice,rep,hudson,hillsborough,hillsborough-37
+6,37,kim rice,rep,pelham,hillsborough,hillsborough-37
+6,37,jordan ulery,rep,hudson,hillsborough,hillsborough-37
+6,37,jordan ulery,rep,pelham,hillsborough,hillsborough-37
+6,37,james whittemore,rep,hudson,hillsborough,hillsborough-37
+6,37,james whittemore,rep,pelham,hillsborough,hillsborough-37
+6,38,chris balch,dem,antrim,hillsborough,hillsborough-38
+6,38,chris balch,dem,bennington,hillsborough,hillsborough-38
+6,38,chris balch,dem,francestown,hillsborough,hillsborough-38
+6,38,chris balch,dem,greenfield,hillsborough,hillsborough-38
+6,38,chris balch,dem,greenville,hillsborough,hillsborough-38
+6,38,chris balch,dem,hancock,hillsborough,hillsborough-38
+6,38,chris balch,dem,hillsborough,hillsborough,hillsborough-38
+6,38,chris balch,dem,lyndeborough,hillsborough,hillsborough-38
+6,38,chris balch,dem,wilton,hillsborough,hillsborough-38
+6,38,chris balch,dem,windsor,hillsborough,hillsborough-38
+6,38,james bosman,dem,antrim,hillsborough,hillsborough-38
+6,38,james bosman,dem,bennington,hillsborough,hillsborough-38
+6,38,james bosman,dem,francestown,hillsborough,hillsborough-38
+6,38,james bosman,dem,greenfield,hillsborough,hillsborough-38
+6,38,james bosman,dem,greenville,hillsborough,hillsborough-38
+6,38,james bosman,dem,hancock,hillsborough,hillsborough-38
+6,38,james bosman,dem,hillsborough,hillsborough,hillsborough-38
+6,38,james bosman,dem,lyndeborough,hillsborough,hillsborough-38
+6,38,james bosman,dem,wilton,hillsborough,hillsborough-38
+6,38,james bosman,dem,windsor,hillsborough,hillsborough-38
+6,39,john burt,rep,deering,hillsborough,hillsborough-39
+6,39,john burt,rep,goffstown,hillsborough,hillsborough-39
+6,39,john burt,rep,weare,hillsborough,hillsborough-39
+6,40,kat mcghee,dem,hollis,hillsborough,hillsborough-40
+6,40,kat mcghee,dem,milford,hillsborough,hillsborough-40
+6,40,kat mcghee,dem,mont vernon,hillsborough,hillsborough-40
+6,40,kat mcghee,dem,new boston,hillsborough,hillsborough-40
+6,41,laurie sanborn,rep,amherst,hillsborough,hillsborough-41
+6,41,laurie sanborn,rep,bedford,hillsborough,hillsborough-41
+6,42,jacqueline chretien,dem,manchester,hillsborough,hillsborough-42
+6,42,matt wilhelm,dem,manchester,hillsborough,hillsborough-42
+6,43,benjamin baroody,dem,manchester,hillsborough,hillsborough-43
+6,43,christopher herbert,dem,manchester,hillsborough,hillsborough-43
+6,43,richard komi,dem,manchester,hillsborough,hillsborough-43
+6,44,mark mclean,rep,litchfield,hillsborough,hillsborough-44
+6,44,mark mclean,rep,manchester,hillsborough,hillsborough-44
+6,44,mark proulx,rep,litchfield,hillsborough,hillsborough-44
+6,44,mark proulx,rep,manchester,hillsborough,hillsborough-44
+6,45,jane ellen beaulieu,dem,manchester,hillsborough,hillsborough-45
+6,45,connie van houten,dem,manchester,hillsborough,hillsborough-45
+7,01,ken wells,dem,andover,merrimack,merrimack-01
+7,01,ken wells,dem,danbury,merrimack,merrimack-01
+7,01,ken wells,dem,salisbury,merrimack,merrimack-01
+7,02,werner d. horn,rep,franklin,merrimack,merrimack-02
+7,02,werner d. horn,rep,hill,merrimack,merrimack-02
+7,02,dave testerman,rep,franklin,merrimack,merrimack-02
+7,02,dave testerman,rep,hill,merrimack,merrimack-02
+7,03,joyce may fulweiler,dem,franklin,merrimack,merrimack-03
+7,03,joyce may fulweiler,dem,northfield,merrimack,merrimack-03
+7,03,gregory hill,rep,franklin,merrimack,merrimack-03
+7,03,gregory hill,rep,northfield,merrimack,merrimack-03
+7,04,tom schamberg,dem,sutton,merrimack,merrimack-04
+7,04,tom schamberg,dem,wilmot,merrimack,merrimack-04
+7,05,karen ebel,dem,newbury,merrimack,merrimack-05
+7,05,karen ebel,dem,new london,merrimack,merrimack-05
+7,05,dan wolf,rep,newbury,merrimack,merrimack-05
+7,05,dan wolf,rep,new london,merrimack,merrimack-05
+7,06,rod pimentel,dem,bradford,merrimack,merrimack-06
+7,06,rod pimentel,dem,henniker,merrimack,merrimack-06
+7,06,beth rodd,dem,bradford,merrimack,merrimack-06
+7,06,beth rodd,dem,henniker,merrimack,merrimack-06
+7,07,clyde carson,dem,warner,merrimack,merrimack-07
+7,07,clyde carson,dem,webster,merrimack,merrimack-07
+7,08,robert forsythe,rep,boscawen,merrimack,merrimack-08
+7,09,howard moffett,dem,canterbury,merrimack,merrimack-09
+7,09,howard moffett,dem,loudon,merrimack,merrimack-09
+7,09,george saunderson,dem,canterbury,merrimack,merrimack-09
+7,09,george saunderson,dem,loudon,merrimack,merrimack-09
+7,10,david luneau,dem,concord,merrimack,merrimack-10
+7,10,david luneau,dem,hopkinton,merrimack,merrimack-10
+7,10,mel myler,dem,concord,merrimack,merrimack-10
+7,10,mel myler,dem,hopkinton,merrimack,merrimack-10
+7,10,mary jane wallner,dem,concord,merrimack,merrimack-10
+7,10,mary jane wallner,dem,hopkinton,merrimack,merrimack-10
+7,11,steve shurtleff,dem,concord,merrimack,merrimack-11
+7,12,connie lane,dem,concord,merrimack,merrimack-12
+7,13,beth richards,dem,concord,merrimack,merrimack-13
+7,14,jim mackay,dem,concord,merrimack,merrimack-14
+7,15,ryan buchanan,dem,concord,merrimack,merrimack-15
+7,16,timothy soucy,dem,concord,merrimack,merrimack-16
+7,17,safiya wazir,dem,concord,merrimack,merrimack-17
+7,18,kris schultz,dem,concord,merrimack,merrimack-18
+7,19,christy bartlett,dem,concord,merrimack,merrimack-19
+7,20,david doherty,dem,chichester,merrimack,merrimack-20
+7,20,david doherty,dem,pembroke,merrimack,merrimack-20
+7,20,dianne schuett,dem,chichester,merrimack,merrimack-20
+7,20,dianne schuett,dem,pembroke,merrimack,merrimack-20
+7,20,brian seaworth,rep,chichester,merrimack,merrimack-20
+7,20,brian seaworth,rep,pembroke,merrimack,merrimack-20
+7,21,james allard,rep,epsom,merrimack,merrimack-21
+7,21,james allard,rep,pittsfield,merrimack,merrimack-21
+7,21,jon klose,rep,epsom,merrimack,merrimack-21
+7,21,jon klose,rep,pittsfield,merrimack,merrimack-21
+7,22,alan turcotte,dem,allenstown,merrimack,merrimack-22
+7,23,samantha fox,dem,bow,merrimack,merrimack-23
+7,23,samantha fox,dem,dunbarton,merrimack,merrimack-23
+7,23,mary beth walz,dem,bow,merrimack,merrimack-23
+7,23,mary beth walz,dem,dunbarton,merrimack,merrimack-23
+7,23,gary woods,dem,bow,merrimack,merrimack-23
+7,23,gary woods,dem,dunbarton,merrimack,merrimack-23
+7,24,frank kotowski,rep,hooksett,merrimack,merrimack-24
+7,24,dick marple,rep,hooksett,merrimack,merrimack-24
+7,24,thomas walsh iv,rep,hooksett,merrimack,merrimack-24
+7,24,michael yakubovich,rep,hooksett,merrimack,merrimack-24
+7,25,david karrick,dem,andover,merrimack,merrimack-25
+7,25,david karrick,dem,danbury,merrimack,merrimack-25
+7,25,david karrick,dem,salisbury,merrimack,merrimack-25
+7,25,david karrick,dem,warner,merrimack,merrimack-25
+7,25,david karrick,dem,webster,merrimack,merrimack-25
+7,26,howard pearl,rep,boscawen,merrimack,merrimack-26
+7,26,howard pearl,rep,canterbury,merrimack,merrimack-26
+7,26,howard pearl,rep,franklin,merrimack,merrimack-26
+7,26,howard pearl,rep,loudon,merrimack,merrimack-26
+7,26,howard pearl,rep,northfield,merrimack,merrimack-26
+7,27,art ellison,dem,concord,merrimack,merrimack-27
+7,27,rebecca mcwilliams,dem,concord,merrimack,merrimack-27
+7,28,katherine rogers,dem,concord,merrimack,merrimack-28
+7,29,carol mcguire,rep,allenstown,merrimack,merrimack-29
+7,29,carol mcguire,rep,epsom,merrimack,merrimack-29
+7,29,carol mcguire,rep,pittsfield,merrimack,merrimack-29
+8,01,david coursin,dem,northwood,rockingham,rockingham-01
+8,02,alan bershtein,rep,candia,rockingham,rockingham-02
+8,02,alan bershtein,rep,deerfield,rockingham,rockingham-02
+8,02,alan bershtein,rep,nottingham,rockingham,rockingham-02
+8,02,james spillane,rep,candia,rockingham,rockingham-02
+8,02,james spillane,rep,deerfield,rockingham,rockingham-02
+8,02,james spillane,rep,nottingham,rockingham,rockingham-02
+8,02,kevin verville,rep,candia,rockingham,rockingham-02
+8,02,kevin verville,rep,deerfield,rockingham,rockingham-02
+8,02,kevin verville,rep,nottingham,rockingham,rockingham-02
+8,03,"michael costable, jr.",rep,raymond,rockingham,rockingham-03
+8,03,kathleen hoelzel,rep,raymond,rockingham,rockingham-03
+8,03,kevin pratt,rep,raymond,rockingham,rockingham-03
+8,04,jess edwards,rep,auburn,rockingham,rockingham-04
+8,04,jess edwards,rep,chester,rockingham,rockingham-04
+8,04,jess edwards,rep,sandown,rockingham,rockingham-04
+8,04,jason osborne,rep,auburn,rockingham,rockingham-04
+8,04,jason osborne,rep,chester,rockingham,rockingham-04
+8,04,jason osborne,rep,sandown,rockingham,rockingham-04
+8,04,becky owens,rep,auburn,rockingham,rockingham-04
+8,04,becky owens,rep,chester,rockingham,rockingham-04
+8,04,becky owens,rep,sandown,rockingham,rockingham-04
+8,04,tony piemonte,rep,auburn,rockingham,rockingham-04
+8,04,tony piemonte,rep,chester,rockingham,rockingham-04
+8,04,tony piemonte,rep,sandown,rockingham,rockingham-04
+8,04,chris true,rep,auburn,rockingham,rockingham-04
+8,04,chris true,rep,chester,rockingham,rockingham-04
+8,04,chris true,rep,sandown,rockingham,rockingham-04
+8,05,al baldasaro,rep,londonderry,rockingham,rockingham-05
+8,05,tom dolan,rep,londonderry,rockingham,rockingham-05
+8,05,david lundgren,rep,londonderry,rockingham,rockingham-05
+8,05,betsy mckinney,rep,londonderry,rockingham,rockingham-05
+8,05,sherman packard,rep,londonderry,rockingham,rockingham-05
+8,05,doug thomas,rep,londonderry,rockingham,rockingham-05
+8,05,anne warner,dem,londonderry,rockingham,rockingham-05
+8,06,brian chirichiello,rep,derry,rockingham,rockingham-06
+8,06,mary eisner,dem,derry,rockingham,rockingham-06
+8,06,phyllis katsakiores,rep,derry,rockingham,rockingham-06
+8,06,david love,rep,derry,rockingham,rockingham-06
+8,06,david milz,rep,derry,rockingham,rockingham-06
+8,06,katherine o'brien,rep,derry,rockingham,rockingham-06
+8,06,john o'connor,rep,derry,rockingham,rockingham-06
+8,06,stephen pearson,rep,derry,rockingham,rockingham-06
+8,06,john potucek,rep,derry,rockingham,rockingham-06
+8,06,james c. webb,rep,derry,rockingham,rockingham-06
+8,07,joel desilets,rep,windham,rockingham,rockingham-07
+8,07,mary griffin,rep,windham,rockingham,rockingham-07
+8,07,walter kolodziej,rep,windham,rockingham,rockingham-07
+8,07,charles mcmahon,rep,windham,rockingham,rockingham-07
+8,08,daryl abbas,rep,salem,rockingham,rockingham-08
+8,08,arthur barnes iii,rep,salem,rockingham,rockingham-08
+8,08,ed declercq,rep,salem,rockingham,rockingham-08
+8,08,fred doucette,rep,salem,rockingham,rockingham-08
+8,08,bob elliott,rep,salem,rockingham,rockingham-08
+8,08,betty gay,rep,salem,rockingham,rockingham-08
+8,08,john janigian,rep,salem,rockingham,rockingham-08
+8,08,everett mcbride jr.,rep,salem,rockingham,rockingham-08
+8,08,john sytek,rep,salem,rockingham,rockingham-08
+8,09,sean morrison,rep,epping,rockingham,rockingham-09
+8,09,mark vallone,dem,epping,rockingham,rockingham-09
+8,10,dennis acton,rep,fremont,rockingham,rockingham-10
+8,11,liz mcconnell,dem,brentwood,rockingham,rockingham-11
+8,12,scott wallace,rep,danville,rockingham,rockingham-12
+8,13,dennis green,rep,hampstead,rockingham,rockingham-13
+8,13,dennis green,rep,kingston,rockingham,rockingham-13
+8,13,joe guthrie,rep,hampstead,rockingham,rockingham-13
+8,13,joe guthrie,rep,kingston,rockingham,rockingham-13
+8,13,david welch,rep,hampstead,rockingham,rockingham-13
+8,13,david welch,rep,kingston,rockingham,rockingham-13
+8,13,kenneth weyler,rep,hampstead,rockingham,rockingham-13
+8,13,kenneth weyler,rep,kingston,rockingham,rockingham-13
+8,14,debra desimone,rep,atkinson,rockingham,rockingham-14
+8,14,debra desimone,rep,plaistow,rockingham,rockingham-14
+8,14,robert harb,rep,atkinson,rockingham,rockingham-14
+8,14,robert harb,rep,plaistow,rockingham,rockingham-14
+8,14,norman major,rep,atkinson,rockingham,rockingham-14
+8,14,norman major,rep,plaistow,rockingham,rockingham-14
+8,14,peter torosian,rep,atkinson,rockingham,rockingham-14
+8,14,peter torosian,rep,plaistow,rockingham,rockingham-14
+8,15,charles melvin sr.,rep,newton,rockingham,rockingham-15
+8,16,dan davis,rep,east kingston,rockingham,rockingham-16
+8,16,dan davis,rep,kensington,rockingham,rockingham-16
+8,16,dan davis,rep,south hampton,rockingham,rockingham-16
+8,17,michael cahill,dem,newfields,rockingham,rockingham-17
+8,17,michael cahill,dem,newmarket,rockingham,rockingham-17
+8,17,charlotte dilorenzo,dem,newfields,rockingham,rockingham-17
+8,17,charlotte dilorenzo,dem,newmarket,rockingham,rockingham-17
+8,17,ellen read,dem,newfields,rockingham,rockingham-17
+8,17,ellen read,dem,newmarket,rockingham,rockingham-17
+8,18,skip berrien,dem,exeter,rockingham,rockingham-18
+8,18,lisa bunker,dem,exeter,rockingham,rockingham-18
+8,18,julie gilman,dem,exeter,rockingham,rockingham-18
+8,18,gaby grossman,dem,exeter,rockingham,rockingham-18
+8,19,patrick abrami,rep,stratham,rockingham,rockingham-19
+8,19,debra altschiller,dem,stratham,rockingham,rockingham-19
+8,20,max abramson,rep,hampton falls,rockingham,rockingham-20
+8,20,max abramson,rep,seabrook,rockingham,rockingham-20
+8,20,william fowler,rep,hampton falls,rockingham,rockingham-20
+8,20,william fowler,rep,seabrook,rockingham,rockingham-20
+8,20,aboul khan,rep,hampton falls,rockingham,rockingham-20
+8,20,aboul khan,rep,seabrook,rockingham,rockingham-20
+8,21,patricia bushway,dem,hampton,rockingham,rockingham-21
+8,21,robert cushing,dem,hampton,rockingham,rockingham-21
+8,21,mike edgar,dem,hampton,rockingham,rockingham-21
+8,21,tom loughman,dem,hampton,rockingham,rockingham-21
+8,22,jim maggiore,dem,north hampton,rockingham,rockingham-22
+8,23,dennis malloy,dem,greenland,rockingham,rockingham-23
+8,23,dennis malloy,dem,newington,rockingham,rockingham-23
+8,24,jaci grote,dem,new castle,rockingham,rockingham-24
+8,24,jaci grote,dem,rye,rockingham,rockingham-24
+8,24,kate murray,dem,new castle,rockingham,rockingham-24
+8,24,kate murray,dem,rye,rockingham,rockingham-24
+8,25,laura pantelakos,dem,portsmouth,rockingham,rockingham-25
+8,26,rebecca mcbeath,dem,portsmouth,rockingham,rockingham-26
+8,27,peter somssich,dem,portsmouth,rockingham,rockingham-27
+8,28,gerry ward,dem,portsmouth,rockingham,rockingham-28
+8,29,david meuse,dem,portsmouth,rockingham,rockingham-29
+8,30,jacqueline cali-pitts,dem,portsmouth,rockingham,rockingham-30
+8,31,tamara le,dem,greenland,rockingham,rockingham-31
+8,31,tamara le,dem,newington,rockingham,rockingham-31
+8,31,tamara le,dem,north hampton,rockingham,rockingham-31
+8,31,tamara le,dem,portsmouth,rockingham,rockingham-31
+8,32,terry roy,rep,candia,rockingham,rockingham-32
+8,32,terry roy,rep,deerfield,rockingham,rockingham-32
+8,32,terry roy,rep,northwood,rockingham,rockingham-32
+8,32,terry roy,rep,nottingham,rockingham,rockingham-32
+8,33,josh yokela,rep,brentwood,rockingham,rockingham-33
+8,33,josh yokela,rep,danville,rockingham,rockingham-33
+8,33,josh yokela,rep,fremont,rockingham,rockingham-33
+8,34,mark pearson,rep,atkinson,rockingham,rockingham-34
+8,34,mark pearson,rep,hampstead,rockingham,rockingham-34
+8,34,mark pearson,rep,kingston,rockingham,rockingham-34
+8,34,mark pearson,rep,plaistow,rockingham,rockingham-34
+8,35,deborah hobson,rep,east kingston,rockingham,rockingham-35
+8,35,deborah hobson,rep,kensington,rockingham,rockingham-35
+8,35,deborah hobson,rep,newton,rockingham,rockingham-35
+8,35,deborah hobson,rep,south hampton,rockingham,rockingham-35
+8,36,patricia lovejoy,dem,exeter,rockingham,rockingham-36
+8,36,patricia lovejoy,dem,newfields,rockingham,rockingham-36
+8,36,patricia lovejoy,dem,newmarket,rockingham,rockingham-36
+8,36,patricia lovejoy,dem,stratham,rockingham,rockingham-36
+8,37,jason janvrin,rep,hampton,rockingham,rockingham-37
+8,37,jason janvrin,rep,hampton falls,rockingham,rockingham-37
+8,37,jason janvrin,rep,seabrook,rockingham,rockingham-37
+9,01,peter hayward,rep,middleton,strafford,strafford-01
+9,01,peter hayward,rep,milton,strafford,strafford-01
+9,01,abigail rooney,rep,middleton,strafford,strafford-01
+9,01,abigail rooney,rep,milton,strafford,strafford-01
+9,02,james horgan,rep,farmington,strafford,strafford-02
+9,02,joseph pitre,rep,farmington,strafford,strafford-02
+9,03,michael harrington,rep,new durham,strafford,strafford-03
+9,03,michael harrington,rep,strafford,strafford,strafford-03
+9,03,kurt wuelper,rep,new durham,strafford,strafford-03
+9,03,kurt wuelper,rep,strafford,strafford,strafford-03
+9,04,cassandra levesque,dem,barrington,strafford,strafford-04
+9,04,matthew towne,dem,barrington,strafford,strafford-04
+9,05,jeffrey salloway,dem,lee,strafford,strafford-05
+9,06,timothy horrigan,dem,durham,strafford,strafford-06
+9,06,timothy horrigan,dem,madbury,strafford,strafford-06
+9,06,cam kenney,dem,durham,strafford,strafford-06
+9,06,cam kenney,dem,madbury,strafford,strafford-06
+9,06,marjorie smith,dem,durham,strafford,strafford-06
+9,06,marjorie smith,dem,madbury,strafford,strafford-06
+9,06,judith spang,dem,durham,strafford,strafford-06
+9,06,judith spang,dem,madbury,strafford,strafford-06
+9,06,janet wall,d+r↓,durham,strafford,strafford-06
+9,06,janet wall,d+r↓,madbury,strafford,strafford-06
+9,07,timothy fontneau,dem,rochester,strafford,strafford-07
+9,08,donna ellis,dem,rochester,strafford,strafford-08
+9,09,steven beaudoin,rep,rochester,strafford,strafford-09
+9,10,jody mcnally,rep,rochester,strafford,strafford-10
+9,11,chuck grassie,dem,rochester,strafford,strafford-11
+9,12,mac kittredge,rep,rochester,strafford,strafford-12
+9,13,casey conley,dem,dover,strafford,strafford-13
+9,14,kristina fargo,dem,dover,strafford,strafford-14
+9,15,linn opderbecke,dem,dover,strafford,strafford-15
+9,16,sherry frost,dem,dover,strafford,strafford-16
+9,17,peter bixby,dem,dover,strafford,strafford-17
+9,17,peter bixby,dem,somersworth,strafford,strafford-17
+9,17,susan treleaven,dem,dover,strafford,strafford-17
+9,17,susan treleaven,dem,somersworth,strafford,strafford-17
+9,17,kenneth vincent,dem,dover,strafford,strafford-17
+9,17,kenneth vincent,dem,somersworth,strafford,strafford-17
+9,18,gerri cannon,dem,rollinsford,strafford,strafford-18
+9,18,gerri cannon,dem,somersworth,strafford,strafford-18
+9,18,wendy chase,dem,rollinsford,strafford,strafford-18
+9,18,wendy chase,dem,somersworth,strafford,strafford-18
+9,18,cecilia rich,dem,rollinsford,strafford,strafford-18
+9,18,cecilia rich,dem,somersworth,strafford,strafford-18
+9,19,peter b. schmidt,dem,dover,strafford,strafford-19
+9,20,tom southworth,dem,dover,strafford,strafford-20
+9,21,catt sandler,dem,dover,strafford,strafford-21
+9,21,catt sandler,dem,rollinsford,strafford,strafford-21
+9,21,catt sandler,dem,somersworth,strafford,strafford-21
+9,22,peg higgins,dem,rochester,strafford,strafford-22
+9,23,sandra keans,dem,rochester,strafford,strafford-23
+9,24,mona perreault,rep,rochester,strafford,strafford-24
+9,25,amanda gourgue,dem,barrington,strafford,strafford-25
+9,25,amanda gourgue,dem,lee,strafford,strafford-25
+10,01,lee oxenham,dem,cornish,sullivan,sullivan-01
+10,01,lee oxenham,dem,grantham,sullivan,sullivan-01
+10,01,lee oxenham,dem,plainfield,sullivan,sullivan-01
+10,01,lee oxenham,dem,springfield,sullivan,sullivan-01
+10,01,brian sullivan,dem,cornish,sullivan,sullivan-01
+10,01,brian sullivan,dem,grantham,sullivan,sullivan-01
+10,01,brian sullivan,dem,plainfield,sullivan,sullivan-01
+10,01,brian sullivan,dem,springfield,sullivan,sullivan-01
+10,02,gates lucas,rep,croydon,sullivan,sullivan-02
+10,02,gates lucas,rep,sunapee,sullivan,sullivan-02
+10,03,andrew o'hearne,dem,claremont,sullivan,sullivan-03
+10,04,gary merchant,dem,claremont,sullivan,sullivan-04
+10,05,walter stapleton,rep,claremont,sullivan,sullivan-05
+10,06,john callum,rep,newport,sullivan,sullivan-06
+10,06,john callum,rep,unity,sullivan,sullivan-06
+10,06,skip rollins,rep,newport,sullivan,sullivan-06
+10,06,skip rollins,rep,unity,sullivan,sullivan-06
+10,07,judy aron,rep,acworth,sullivan,sullivan-07
+10,07,judy aron,rep,goshen,sullivan,sullivan-07
+10,07,judy aron,rep,langdon,sullivan,sullivan-07
+10,07,judy aron,rep,lempster,sullivan,sullivan-07
+10,07,judy aron,rep,washington,sullivan,sullivan-07
+10,08,tom laware,rep,charlestown,sullivan,sullivan-08
+10,09,linda tanner,dem,cornish,sullivan,sullivan-09
+10,09,linda tanner,dem,croydon,sullivan,sullivan-09
+10,09,linda tanner,dem,grantham,sullivan,sullivan-09
+10,09,linda tanner,dem,newport,sullivan,sullivan-09
+10,09,linda tanner,dem,plainfield,sullivan,sullivan-09
+10,09,linda tanner,dem,springfield,sullivan,sullivan-09
+10,09,linda tanner,dem,sunapee,sullivan,sullivan-09
+10,09,linda tanner,dem,unity,sullivan,sullivan-09
+10,10,john cloutier,dem,claremont,sullivan,sullivan-10
+10,11,steven d. smith,rep,acworth,sullivan,sullivan-11
+10,11,steven d. smith,rep,charlestown,sullivan,sullivan-11
+10,11,steven d. smith,rep,goshen,sullivan,sullivan-11
+10,11,steven d. smith,rep,langdon,sullivan,sullivan-11
+10,11,steven d. smith,rep,lempster,sullivan,sullivan-11
+10,11,steven d. smith,rep,washington,sullivan,sullivan-11
